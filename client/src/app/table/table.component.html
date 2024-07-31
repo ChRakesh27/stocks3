@@ -1,0 +1,137 @@
+<div class="mt-5 mb-5">
+    <div class="dateFilter text-center">
+        From:
+        <input type="date" (change)="setStartDate($event)">
+        TO:
+        <input type="date" class="" (change)="setEndDate($event)">
+        <!-- <button class="btn btn-primary ms-3" (click)="fetchData()" [hidden]="isLoading">fetchData</button> -->
+
+        <button class="btn btn-primary ms-3" type="button" disabled [hidden]="!isLoading">
+            <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+            Loading...
+        </button>
+    </div>
+    <table>
+        <tr class="text-center">
+            <th>company</th>
+            <th class="remark-col">remarks</th>
+            <th class="high-col">high</th>
+            <th class="low-col">low</th>
+            @for (date of dateList; track $index) {
+            <th class="date-col" (click)="onSortDate(date)">{{date}} {{sortOrder==1?"↑":sortOrder==2?"↓":""}}</th>
+            }
+        </tr>
+
+        @for(list of dataSet; track $index){
+        <tr>
+            <td>
+                <div class="wraptext"><a [href]="list.link?list.link:'#'" target="_blank"
+                        class="link">{{list.company}}</a></div>
+            </td>
+            <td><textarea type="text" rows="1" class="form-control" (change)="setRemark($event,list,'remarks')"
+                    [value]="list.remarks"></textarea>
+            </td>
+            <td><input type="number" class="form-control" (change)="setRemark($event,list,'high')" [value]="list.high">
+            </td>
+            <td><input type="number" class="form-control" (change)="setRemark($event,list,'low')" [value]="list.low">
+            </td>
+            @for (date of dateList; track $index) {
+            <td [ngStyle]="{'background-color':getBackgroundColor(list,date)}" data-bs-toggle="modal"
+                data-bs-target="#exampleModal" (click)="setUpdate(list,date)">
+                @for (item of list.records; track $index) {
+                @if(item.date==date){
+                <b>{{item.percentage | number : '1.2-2' }}%</b>
+                <small><b>&#8377;</b>
+                    @if(item.percentage<=0){ {{item.min}} }@else{ {{item.max}} } <div
+                        class="d-flex justify-content-between">
+                        <div class="">
+                            <b> {{item.open?item.open:0}}</b>
+                        </div>
+                        <div class="">
+                            @if(item.percentage<=0){ ({{item.max}})}@else{ ({{item.min}}) } </div>
+                                <div class="">
+                                    <b>{{item.close?item.close:0}}</b>
+                                </div>
+                        </div>
+                </small>
+                }
+                }
+
+            </td>
+            }
+        </tr>
+        }
+    </table>
+</div>
+
+
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">Update Record</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row  justify-content-center mt-1">
+                    <div class="col-4">
+                        <label>percentage:</label>
+                    </div>
+                    <div class="col-6">
+                        <input type="number" [value]="percentage" class="form-control"
+                            (change)="onChangeHandle($event,selectedDate,'percentage')" />
+                    </div>
+                </div>
+                <div class="row  justify-content-center mt-1">
+                    <div class="col-4">
+                        <label>position:</label>
+                    </div>
+                    <div class="col-6">
+                        <input type="number" [value]="position" class="form-control"
+                            (change)="onChangeHandle($event,selectedDate,'position')" />
+                    </div>
+                </div>
+                <div class="row  justify-content-center mt-1">
+                    <div class="col-4">
+                        <label>minimum price:</label>
+                    </div>
+                    <div class="col-6">
+                        <input type="number" [value]="minPrice" class="form-control"
+                            (change)="onChangeHandle($event,selectedDate,'min')" />
+                    </div>
+                </div>
+                <div class="row  justify-content-center mt-1">
+                    <div class="col-4">
+                        <label>maximum price:</label>
+                    </div>
+                    <div class="col-6">
+                        <input type="number" [value]="maxPrice" class="form-control"
+                            (change)="onChangeHandle($event,selectedDate,'max')" />
+                    </div>
+                </div>
+                <div class="row  justify-content-center mt-1">
+                    <div class="col-4">
+                        <label>open:</label>
+                    </div>
+                    <div class="col-6">
+                        <input type="number" [value]="open" class="form-control"
+                            (change)="onChangeHandle($event,selectedDate,'open')" />
+                    </div>
+                </div>
+                <div class="row  justify-content-center mt-1">
+                    <div class="col-4">
+                        <label>close:</label>
+                    </div>
+                    <div class="col-6">
+                        <input type="number" [value]="close" class="form-control"
+                            (change)="onChangeHandle($event,selectedDate,'close')" />
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal"
+                    (click)="modalClose()">Close</button>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,17 @@
+.white-text {
+    color: #fff !important;
+}
+
+.inp-bg {
+    background: transparent;
+    color: #fff !important;
+    border: none;
+    border-bottom: 2px solid white;
+}
+
+.login {
+    background-image: url(../../assets/images/image.png);
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}

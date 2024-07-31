@@ -1,0 +1,7585 @@
+[{
+  "_id": {
+    "$oid": "66a0960be62333228a45c66d"
+  },
+  "company": "Asian Paints",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "",
+  "records": [
+    {
+      "date": "30-07-2024",
+      "price": 3014,
+      "percentage": 2.26,
+      "max": 3032.8,
+      "min": 2970,
+      "position": 8,
+      "close": 3005.05,
+      "open": 2973.5,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 3078.55,
+      "percentage": 3.05,
+      "max": 3084.8,
+      "min": 3005.05,
+      "position": 3,
+      "close": 3079.1,
+      "open": 3005.05,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 3098,
+      "min": 3005.05,
+      "close": 3083.8,
+      "open": 3005.05,
+      "price": 3083.8,
+      "volume": 2996183,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 2704.55,
+      "highPriceRange": 3305.55,
+      "totalBuyQty": 156446,
+      "totalSellQty": 293487,
+      "dayChange": 78.75,
+      "percentage": 2.620588675729189,
+      "openInterest": null,
+      "lastTradeQty": 5,
+      "lastTradeTime": 1722414587,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "symbol": "ASIANPAINT",
+  "link": "https://groww.in/stocks/asian-paints-ltd"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c66e"
+  },
+  "company": "Bajaj Holdings & Investment",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 9415,
+      "percentage": 0.96,
+      "max": 9415,
+      "min": 9410.1,
+      "position": 19
+    },
+    {
+      "date": "29-07-2024",
+      "price": 9615,
+      "percentage": 2.47,
+      "max": 9714.6,
+      "min": 9592.7,
+      "position": 6,
+      "close": 9642.5,
+      "open": 9481
+    },
+    {
+      "date": "31-07-2024",
+      "price": 9587.55,
+      "percentage": -0.98,
+      "max": 9587.55,
+      "min": 9587.55,
+      "position": 4,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 9724.05,
+      "min": 9496.35,
+      "close": 9659.75,
+      "open": 9675.15,
+      "price": 9659.75,
+      "volume": 14038,
+      "tsInMillis": 1722414586,
+      "lowPriceRange": 7740.15,
+      "highPriceRange": 11610.15,
+      "totalBuyQty": 3447,
+      "totalSellQty": 7283,
+      "dayChange": -15.399999999999636,
+      "percentage": -0.15917065885283058,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414585,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/bajaj-holdings-investment-ltd",
+  "symbol": "BAJAJHLDNG"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c66f"
+  },
+  "company": "Berger Paints India",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "29-07-2024",
+      "price": 538.55,
+      "percentage": -0.83,
+      "max": 538.85,
+      "min": 537.9,
+      "position": 18,
+      "close": 538.8,
+      "open": 545.5
+    },
+    {
+      "date": "30-07-2024",
+      "price": 546,
+      "percentage": 3.13,
+      "max": 555.95,
+      "min": 539.95,
+      "position": 7,
+      "close": 550.85,
+      "open": 540,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 557.9,
+      "percentage": 1.28,
+      "max": 558.35,
+      "min": 551,
+      "position": 15,
+      "close": 558,
+      "open": 553.7,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 558.45,
+      "min": 551,
+      "close": 554,
+      "open": 553.7,
+      "price": 554,
+      "volume": 680460,
+      "tsInMillis": 1722414586,
+      "lowPriceRange": 495.8,
+      "highPriceRange": 605.9,
+      "totalBuyQty": 214818,
+      "totalSellQty": 322601,
+      "dayChange": 3.1499999999999773,
+      "percentage": 0.5718435145683901,
+      "openInterest": null,
+      "lastTradeQty": 50,
+      "lastTradeTime": 1722414585,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/berger-paints-india-ltd",
+  "symbol": "BERGEPAINT"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c670"
+  },
+  "company": "Britannia Industries",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 5859.05,
+      "percentage": -1.44,
+      "max": 5859.05,
+      "min": 5859.05,
+      "position": 18
+    },
+    {
+      "date": "26-07-2024",
+      "open": 5830,
+      "close": 5872.8,
+      "price": 5823.6,
+      "percentage": -0.1,
+      "max": 5829.1,
+      "min": 5823.6,
+      "position": 18
+    },
+    {
+      "date": "30-07-2024",
+      "price": 5857.3,
+      "percentage": -0.69,
+      "max": 5989.4,
+      "min": 5831.3,
+      "position": 19,
+      "close": 5842.2,
+      "open": 5898.4,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 5831.05,
+      "percentage": -1.04,
+      "max": 5831.05,
+      "min": 5831.05,
+      "position": 3,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 5897,
+      "min": 5796.2,
+      "close": 5816.9,
+      "open": 5897,
+      "price": 5816.9,
+      "volume": 131780,
+      "tsInMillis": 1722414586,
+      "lowPriceRange": 5258,
+      "highPriceRange": 6426.4,
+      "totalBuyQty": 26950,
+      "totalSellQty": 30581,
+      "dayChange": -25.300000000000182,
+      "percentage": -0.4330560405326792,
+      "openInterest": null,
+      "lastTradeQty": 2,
+      "lastTradeTime": 1722414586,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/britannia-industries-ltd",
+  "symbol": "BRITANNIA"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c671"
+  },
+  "company": "Cipla",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 1504.75,
+      "close": 1575,
+      "price": 1538.4,
+      "percentage": -5.73,
+      "max": 1586,
+      "min": 1538.4,
+      "position": 2
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1549.85,
+      "percentage": -2.82,
+      "max": 1559.95,
+      "min": 1530.65,
+      "position": 1,
+      "urlFrom": "losers",
+      "close": 1553.95,
+      "open": 1588
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1535.9,
+      "percentage": -1.77,
+      "max": 1564.05,
+      "min": 1526,
+      "position": 4,
+      "close": 1528.9,
+      "open": 1554,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 1546.3,
+      "min": 1523.55,
+      "close": 1544.65,
+      "open": 1530.1,
+      "price": 1544.65,
+      "volume": 1057710,
+      "tsInMillis": 1722414587,
+      "lowPriceRange": 1376.05,
+      "highPriceRange": 1681.75,
+      "totalBuyQty": 189843,
+      "totalSellQty": 210857,
+      "dayChange": 15.75,
+      "percentage": 1.0301523971482764,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414587,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/cipla-ltd",
+  "symbol": "CIPLA"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c672"
+  },
+  "company": "Colgate-Palmolive (India)",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 3146,
+      "close": 3165.2,
+      "price": 3151.35,
+      "percentage": 0.33,
+      "max": 3151.35,
+      "min": 3142,
+      "position": 9
+    },
+    {
+      "date": "29-07-2024",
+      "price": 3165.2,
+      "percentage": 1.89,
+      "max": 3225,
+      "min": 3165.2,
+      "position": 8,
+      "close": 3210,
+      "open": 3180
+    },
+    {
+      "date": "30-07-2024",
+      "price": 3398.8,
+      "percentage": 5.88,
+      "max": 3424.95,
+      "min": 3250.05,
+      "position": 1,
+      "close": 3366.55,
+      "open": 3300,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 3413,
+      "percentage": 1.38,
+      "max": 3413,
+      "min": 3413,
+      "position": 17,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 3420,
+      "min": 3370.65,
+      "close": 3407.55,
+      "open": 3384.95,
+      "price": 3407.55,
+      "volume": 514694,
+      "tsInMillis": 1722414585,
+      "lowPriceRange": 3029.9,
+      "highPriceRange": 3703.2,
+      "totalBuyQty": 45140,
+      "totalSellQty": 57963,
+      "dayChange": 41,
+      "percentage": 1.2178639853856321,
+      "openInterest": null,
+      "lastTradeQty": 2,
+      "lastTradeTime": 1722414584,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/colgatepalmolive-india-ltd",
+  "symbol": "COLPAL"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c673"
+  },
+  "company": "Eicher Motors",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 4896.8,
+      "close": 5012.5,
+      "price": 4875.05,
+      "percentage": -2.92,
+      "max": 5043.95,
+      "min": 4875.05,
+      "position": 3
+    },
+    {
+      "date": "29-07-2024",
+      "price": 4977,
+      "percentage": -1.57,
+      "max": 4989.05,
+      "min": 4934,
+      "position": 8,
+      "urlFrom": "losers",
+      "close": 4962.25,
+      "open": 5034
+    },
+    {
+      "date": "30-07-2024",
+      "price": 4929.1,
+      "percentage": -0.97,
+      "max": 4978.65,
+      "min": 4904.15,
+      "position": 12,
+      "close": 4951.85,
+      "open": 4950.05,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 4992.8,
+      "min": 4939.95,
+      "close": 4986.1,
+      "open": 4951.85,
+      "price": 4986.1,
+      "volume": 303247,
+      "tsInMillis": 1722414584,
+      "lowPriceRange": 4456.7,
+      "highPriceRange": 5447,
+      "totalBuyQty": 38477,
+      "totalSellQty": 46584,
+      "dayChange": 34.25,
+      "percentage": 0.6916606924684713,
+      "openInterest": null,
+      "lastTradeQty": 3,
+      "lastTradeTime": 1722414584,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/eicher-motors-ltd",
+  "symbol": "EICHERMOT"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c674"
+  },
+  "company": "Nestle India",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 2539.9,
+      "percentage": -1.61,
+      "max": 2539.9,
+      "min": 2539.9,
+      "position": 9
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 2465.3,
+      "percentage": -3.17,
+      "max": 2481,
+      "min": 2460.8,
+      "position": 4
+    },
+    {
+      "date": "26-07-2024",
+      "open": 2492.6,
+      "close": 2476.9,
+      "price": 2459.15,
+      "percentage": -1.03,
+      "max": 2480.1,
+      "min": 2455,
+      "position": 3
+    },
+    {
+      "date": "29-07-2024",
+      "price": 2464.25,
+      "percentage": -0.7,
+      "max": 2467.8,
+      "min": 2459.55,
+      "position": 17,
+      "urlFrom": "losers",
+      "close": 2470.3,
+      "open": 2483.6
+    },
+    {
+      "date": "30-07-2024",
+      "price": 2456.4,
+      "percentage": -0.62,
+      "max": 2480.4,
+      "min": 2451,
+      "position": 18,
+      "close": 2457.65,
+      "open": 2470.35,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 2477,
+      "min": 2455.2,
+      "close": 2468.35,
+      "open": 2470,
+      "price": 2468.35,
+      "volume": 427323,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 2211.9,
+      "highPriceRange": 2703.4,
+      "totalBuyQty": 86854,
+      "totalSellQty": 122556,
+      "dayChange": 10.699999999999818,
+      "percentage": 0.43537525685104944,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414587,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/nestle-india-ltd",
+  "symbol": "NESTLEIND"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c675"
+  },
+  "company": "Ambuja Cements",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 677.2,
+      "percentage": -1.35,
+      "max": 677.2,
+      "min": 673.2,
+      "position": 17
+    },
+    {
+      "date": "29-07-2024",
+      "price": 681.65,
+      "percentage": -2.05,
+      "max": 682.3,
+      "min": 672.35,
+      "position": 3,
+      "close": 679.85,
+      "open": 692
+    },
+    {
+      "date": "30-07-2024",
+      "price": 674.95,
+      "percentage": -0.72,
+      "max": 681.05,
+      "min": 671.2,
+      "position": 17,
+      "close": 674.45,
+      "open": 679.85,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 682,
+      "percentage": 1.27,
+      "max": 682,
+      "min": 682,
+      "position": 15,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 686.65,
+      "min": 672.35,
+      "close": 679.9,
+      "open": 677.75,
+      "price": 679.9,
+      "volume": 4146261,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 607,
+      "highPriceRange": 741.85,
+      "totalBuyQty": 243894,
+      "totalSellQty": 374195,
+      "dayChange": 5.449999999999932,
+      "percentage": 0.8080658314181823,
+      "openInterest": null,
+      "lastTradeQty": 125,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/ambuja-cements-ltd",
+  "symbol": "AMBUJACEM"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c676"
+  },
+  "company": "Grasim Industries",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 2824.95,
+      "close": 2843.3,
+      "price": 2820.15,
+      "percentage": -0.81,
+      "max": 2820.15,
+      "min": 2820.15,
+      "position": 13
+    },
+    {
+      "date": "29-07-2024",
+      "price": 2832.05,
+      "percentage": -0.65,
+      "max": 2832.05,
+      "min": 2824.95,
+      "position": 18,
+      "close": 2828.2,
+      "open": 2859.9
+    },
+    {
+      "date": "30-07-2024",
+      "price": 2813.8,
+      "percentage": -1.53,
+      "max": 2830,
+      "min": 2782.85,
+      "position": 4,
+      "close": 2790.9,
+      "open": 2828.2,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 2783.9,
+      "percentage": -0.9,
+      "max": 2783.9,
+      "min": 2783.9,
+      "position": 6,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 2798.75,
+      "min": 2761.55,
+      "close": 2766.3,
+      "open": 2790.9,
+      "price": 2766.3,
+      "volume": 337708,
+      "tsInMillis": 1722414589,
+      "lowPriceRange": 2511.85,
+      "highPriceRange": 3069.95,
+      "totalBuyQty": 51574,
+      "totalSellQty": 62116,
+      "dayChange": -24.59999999999991,
+      "percentage": -0.8814360958830451,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/grasim-industries-ltd",
+  "symbol": "GRASIM"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c677"
+  },
+  "company": "Hero MotoCorp",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "29-07-2024",
+      "price": 5449.7,
+      "percentage": -1.44,
+      "max": 5451.5,
+      "min": 5400,
+      "position": 6,
+      "urlFrom": "losers",
+      "close": 5424.35,
+      "open": 5505.25
+    },
+    {
+      "date": "30-07-2024",
+      "price": 5482,
+      "percentage": 2.24,
+      "max": 5548,
+      "min": 5410.6,
+      "position": 9,
+      "close": 5444.3,
+      "open": 5455,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 5428.75,
+      "percentage": -0.61,
+      "max": 5428.75,
+      "min": 5428.75,
+      "position": 11,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 5536.15,
+      "min": 5405.2,
+      "close": 5509,
+      "open": 5452.9,
+      "price": 5509,
+      "volume": 482423,
+      "tsInMillis": 1722414589,
+      "lowPriceRange": 4899.9,
+      "highPriceRange": 5988.7,
+      "totalBuyQty": 45064,
+      "totalSellQty": 61717,
+      "dayChange": 64.69999999999982,
+      "percentage": 1.1883988758885407,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/hero-motocorp-ltd",
+  "symbol": "HEROMOTOCO"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c678"
+  },
+  "company": "ABB India",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 7735.05,
+      "percentage": 2.99,
+      "max": 7747.25,
+      "min": 7575.95,
+      "position": 7
+    },
+    {
+      "date": "26-07-2024",
+      "open": 7698.95,
+      "close": 7851.25,
+      "price": 7698.9,
+      "percentage": 3.12,
+      "max": 7861.75,
+      "min": 7698.9,
+      "position": 12
+    },
+    {
+      "date": "29-07-2024",
+      "price": 7957.15,
+      "percentage": 1.77,
+      "max": 7990,
+      "min": 7939.7,
+      "position": 17,
+      "close": 7974.3,
+      "open": 7899
+    },
+    {
+      "date": "30-07-2024",
+      "price": 7925.05,
+      "percentage": -1.79,
+      "max": 8049,
+      "min": 7830,
+      "position": 4,
+      "close": 7843.45,
+      "open": 7990,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 7948,
+      "min": 7790,
+      "close": 7903,
+      "open": 7798.2,
+      "price": 7903,
+      "volume": 162683,
+      "tsInMillis": 1722414589,
+      "lowPriceRange": 7059.1,
+      "highPriceRange": 8627.75,
+      "totalBuyQty": 21271,
+      "totalSellQty": 35045,
+      "dayChange": 59.55000000000018,
+      "percentage": 0.759232225615006,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/abb-india-ltd",
+  "symbol": "ABB"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c679"
+  },
+  "company": "Hindalco Industries",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 640.35,
+      "percentage": 1.86,
+      "max": 642,
+      "min": 639.45,
+      "position": 10
+    },
+    {
+      "date": "26-07-2024",
+      "open": 660,
+      "close": 667.6,
+      "price": 655.2,
+      "percentage": 3.33,
+      "max": 668.1,
+      "min": 655.2,
+      "position": 2
+    },
+    {
+      "date": "29-07-2024",
+      "price": 667.6,
+      "percentage": 0,
+      "max": 667.6,
+      "min": 667.6,
+      "position": 19,
+      "close": 666.85,
+      "open": 676.75
+    },
+    {
+      "date": "30-07-2024",
+      "price": 656.75,
+      "percentage": -1.61,
+      "max": 665,
+      "min": 654.6,
+      "position": 2,
+      "close": 660.5,
+      "open": 665,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 667.95,
+      "percentage": 1.91,
+      "max": 670.8,
+      "min": 664.25,
+      "position": 8,
+      "close": 668,
+      "open": 667,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 671.9,
+      "min": 664.25,
+      "close": 667.85,
+      "open": 667,
+      "price": 667.85,
+      "volume": 4718576,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 594.45,
+      "highPriceRange": 726.55,
+      "totalBuyQty": 461786,
+      "totalSellQty": 749029,
+      "dayChange": 7.350000000000023,
+      "percentage": 1.1127933383800186,
+      "openInterest": null,
+      "lastTradeQty": 18,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/hindalco-industries-ltd",
+  "symbol": "HINDALCO"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c67a"
+  },
+  "company": "Hindustan Unilever",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 2724,
+      "close": 2711.05,
+      "price": 2688.7,
+      "percentage": -0.68,
+      "max": 2706.15,
+      "min": 2688.7,
+      "position": 8
+    },
+    {
+      "date": "29-07-2024",
+      "price": 2701,
+      "percentage": -0.63,
+      "max": 2705.15,
+      "min": 2693.95,
+      "position": 16,
+      "close": 2711.6,
+      "open": 2711.2
+    },
+    {
+      "date": "31-07-2024",
+      "price": 2681.65,
+      "percentage": -0.46,
+      "max": 2681.65,
+      "min": 2681.65,
+      "position": 11,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 2709.65,
+      "min": 2675.05,
+      "close": 2700,
+      "open": 2705,
+      "price": 2700,
+      "volume": 951288,
+      "tsInMillis": 1722414589,
+      "lowPriceRange": 2422.3,
+      "highPriceRange": 2960.5,
+      "totalBuyQty": 122054,
+      "totalSellQty": 124686,
+      "dayChange": 8.599999999999909,
+      "percentage": 0.31953630080998396,
+      "openInterest": null,
+      "lastTradeQty": 3,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/hindustan-unilever-ltd",
+  "symbol": "HINDUNILVR"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c67b"
+  },
+  "company": "ITC",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 494.05,
+      "close": 502.2,
+      "price": 487.95,
+      "percentage": -3.12,
+      "max": 505.25,
+      "min": 487.95,
+      "position": 14
+    },
+    {
+      "date": "29-07-2024",
+      "price": 500.35,
+      "percentage": -1.57,
+      "max": 500.35,
+      "min": 494.3,
+      "position": 6,
+      "urlFrom": "losers",
+      "close": 496.05,
+      "open": 505.5
+    },
+    {
+      "date": "30-07-2024",
+      "price": 493.8,
+      "percentage": -1.41,
+      "max": 497.8,
+      "min": 488.65,
+      "position": 5,
+      "close": 489.9,
+      "open": 496.3,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 495.15,
+      "percentage": 1.29,
+      "max": 495.15,
+      "min": 495.15,
+      "position": 17,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 496.75,
+      "min": 490.5,
+      "close": 492.5,
+      "open": 492.45,
+      "price": 492.5,
+      "volume": 6032777,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 440.95,
+      "highPriceRange": 538.85,
+      "totalBuyQty": 1289883,
+      "totalSellQty": 1930054,
+      "dayChange": 2.6000000000000227,
+      "percentage": 0.5307205552153548,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/itc-ltd",
+  "symbol": "ITC"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c67c"
+  },
+  "company": "Trent",
+  "high": "",
+  "low": "",
+  "remarks": "5150, 5700",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 5345.65,
+      "percentage": 1.55,
+      "max": 5345.65,
+      "min": 5345.65,
+      "position": 11
+    },
+    {
+      "date": "26-07-2024",
+      "open": 5360,
+      "close": 5393.35,
+      "price": 5369.9,
+      "percentage": 1.13,
+      "max": 5369.9,
+      "min": 5369.9,
+      "position": 15
+    },
+    {
+      "date": "29-07-2024",
+      "price": 5468.55,
+      "percentage": 2.82,
+      "max": 5545.2,
+      "min": 5468.55,
+      "position": 6,
+      "close": 5517.4,
+      "open": 5414.95
+    },
+    {
+      "date": "30-07-2024",
+      "price": 5609.7,
+      "percentage": 2.52,
+      "max": 5660,
+      "min": 5520,
+      "position": 7,
+      "close": 5620.5,
+      "open": 5550,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 5707.9,
+      "percentage": 4.67,
+      "max": 5729,
+      "min": 5625.05,
+      "position": 1,
+      "close": 5708.35,
+      "open": 5625.05,
+      "urlFrom": "gainers"
+    }
+  ],
+  "link": "https://groww.in/stocks/trent-ltd",
+  "symbol": "TRENT"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c67d"
+  },
+  "company": "Larsen & Toubro",
+  "high": "",
+  "low": "",
+  "remarks": "3300, 3800",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 3615.95,
+      "percentage": 3.13,
+      "max": 3629.6,
+      "min": 3608,
+      "position": 7
+    },
+    {
+      "date": "29-07-2024",
+      "price": 3724,
+      "percentage": 2.94,
+      "max": 3788.05,
+      "min": 3724,
+      "position": 6,
+      "urlFrom": "gainers",
+      "close": 3774.95,
+      "open": 3701
+    },
+    {
+      "date": "31-07-2024",
+      "price": 3773.65,
+      "percentage": -0.4,
+      "max": 3773.65,
+      "min": 3773.65,
+      "position": 15,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 3813.35,
+      "min": 3763.1,
+      "close": 3800.35,
+      "open": 3777.05,
+      "price": 3800.35,
+      "volume": 1847006,
+      "tsInMillis": 1722414589,
+      "lowPriceRange": 3406.2,
+      "highPriceRange": 4163.1,
+      "totalBuyQty": 104403,
+      "totalSellQty": 272693,
+      "dayChange": 15.699999999999818,
+      "percentage": 0.4148336041641848,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/larsen-toubro-ltd",
+  "symbol": "LT"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c67f"
+  },
+  "company": "Bosch",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 34388.35,
+      "percentage": -1.5,
+      "max": 34628.25,
+      "min": 34380.5,
+      "position": 16
+    },
+    {
+      "date": "26-07-2024",
+      "open": 34751.05,
+      "close": 34917.05,
+      "price": 34658,
+      "percentage": -0.27,
+      "max": 34658,
+      "min": 34658,
+      "position": 17
+    },
+    {
+      "date": "31-07-2024",
+      "price": 34884.05,
+      "percentage": -1.32,
+      "max": 34884.05,
+      "min": 34884.05,
+      "position": 2,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 34986.5,
+      "min": 34420.45,
+      "close": 34851.05,
+      "open": 34904.05,
+      "price": 34851.05,
+      "volume": 23032,
+      "tsInMillis": 1722414587,
+      "lowPriceRange": 31432.1,
+      "highPriceRange": 38417,
+      "totalBuyQty": 2413,
+      "totalSellQty": 2172,
+      "dayChange": -73.5,
+      "percentage": -0.21045367800014603,
+      "openInterest": null,
+      "lastTradeQty": 5,
+      "lastTradeTime": 1722414585,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/bosch-ltd",
+  "symbol": "BOSCHLTD"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c680"
+  },
+  "company": "Reliance Industries",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "",
+  "records": [
+    {
+      "date": "31-07-2024",
+      "price": 3011,
+      "percentage": -0.68,
+      "max": 3011,
+      "min": 3011,
+      "position": 9,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 3020.9,
+      "min": 3002.3,
+      "close": 3008.6,
+      "open": 3008,
+      "price": 3008.6,
+      "volume": 3235905,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 2723.7,
+      "highPriceRange": 3328.9,
+      "totalBuyQty": 241757,
+      "totalSellQty": 330291,
+      "dayChange": -17.700000000000273,
+      "percentage": -0.584872616726705,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "symbol": "RELIANCE",
+  "link": "https://groww.in/stocks/reliance-industries-ltd"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c681"
+  },
+  "company": "Vedanta",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 427.3,
+      "percentage": 1.77,
+      "max": 427.9,
+      "min": 425.05,
+      "position": 12
+    },
+    {
+      "date": "26-07-2024",
+      "open": 439,
+      "close": 444.5,
+      "price": 438.65,
+      "percentage": 3.97,
+      "max": 448,
+      "min": 438.65,
+      "position": 3
+    },
+    {
+      "date": "29-07-2024",
+      "price": 440.35,
+      "percentage": 2.45,
+      "max": 455.4,
+      "min": 438.15,
+      "position": 7,
+      "urlFrom": "gainers",
+      "close": 448.95,
+      "open": 447
+    },
+    {
+      "date": "30-07-2024",
+      "price": 443.15,
+      "percentage": -1.72,
+      "max": 448.15,
+      "min": 440.2,
+      "position": 2,
+      "close": 447.2,
+      "open": 446.8,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 445.85,
+      "percentage": -0.3,
+      "max": 445.85,
+      "min": 445.85,
+      "position": 20,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    }
+  ],
+  "link": "https://groww.in/stocks/vedanta-ltd",
+  "symbol": "VEDL"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c682"
+  },
+  "company": "Shree Cement",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 27760.35,
+      "percentage": 1.43,
+      "max": 27760.35,
+      "min": 27760.35,
+      "position": 5
+    },
+    {
+      "date": "29-07-2024",
+      "price": 27408.7,
+      "percentage": -1.45,
+      "max": 27408.7,
+      "min": 27166.65,
+      "position": 6,
+      "close": 27237.9,
+      "open": 27800
+    },
+    {
+      "date": "30-07-2024",
+      "price": 27032.85,
+      "percentage": -0.78,
+      "max": 27490,
+      "min": 26960.1,
+      "position": 14,
+      "close": 27314.35,
+      "open": 27414.55,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 27644.45,
+      "percentage": 1.74,
+      "max": 27644.45,
+      "min": 27644.45,
+      "position": 14,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 27698.95,
+      "min": 27312.3,
+      "close": 27621.55,
+      "open": 27360.5,
+      "price": 27621.55,
+      "volume": 31194,
+      "tsInMillis": 1722414583,
+      "lowPriceRange": 24582.95,
+      "highPriceRange": 30045.75,
+      "totalBuyQty": 4945,
+      "totalSellQty": 4491,
+      "dayChange": 307.2000000000007,
+      "percentage": 1.1246835454623696,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414582,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/shree-cement-ltd",
+  "symbol": "SHREECEM"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c683"
+  },
+  "company": "SRF",
+  "high": "",
+  "low": "",
+  "remarks": "2200, 2600",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 2394,
+      "percentage": 1.37,
+      "max": 2400,
+      "min": 2388.15,
+      "position": 14
+    },
+    {
+      "date": "29-07-2024",
+      "price": 2492.1,
+      "percentage": 3.25,
+      "max": 2536.05,
+      "min": 2487.85,
+      "position": 4,
+      "urlFrom": "gainers",
+      "close": 2509.05,
+      "open": 2471.85
+    },
+    {
+      "date": "30-07-2024",
+      "price": 2538.7,
+      "percentage": 2.03,
+      "max": 2563.3,
+      "min": 2500.05,
+      "position": 9,
+      "close": 2552.35,
+      "open": 2510.05,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 2642.55,
+      "percentage": 4.1,
+      "max": 2650,
+      "min": 2557.3,
+      "position": 1,
+      "close": 2638.75,
+      "open": 2560,
+      "urlFrom": "gainers"
+    }
+  ],
+  "link": "https://groww.in/stocks/srf-ltd",
+  "symbol": "SRF"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c684"
+  },
+  "company": "Siemens",
+  "high": "",
+  "low": "",
+  "remarks": "6700, 8000",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 6896.45,
+      "percentage": 1.97,
+      "max": 6904.6,
+      "min": 6843,
+      "position": 10
+    },
+    {
+      "date": "29-07-2024",
+      "price": 6996,
+      "percentage": 2.74,
+      "max": 7107,
+      "min": 6996,
+      "position": 6,
+      "urlFrom": "gainers",
+      "close": 7096.35,
+      "open": 6967.5
+    },
+    {
+      "date": "30-07-2024",
+      "price": 7030.05,
+      "percentage": -1.5,
+      "max": 7157.9,
+      "min": 6987.55,
+      "position": 3,
+      "close": 7021.15,
+      "open": 7100,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 6976.55,
+      "percentage": 2.16,
+      "max": 6976.55,
+      "min": 6976.55,
+      "position": 2,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    }
+  ],
+  "link": "https://groww.in/stocks/siemens-ltd",
+  "symbol": "SIEMENS"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c685"
+  },
+  "company": "Tata Power Company",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 432,
+      "close": 444.7,
+      "price": 432,
+      "percentage": 5.17,
+      "max": 445.25,
+      "min": 432,
+      "position": 1
+    },
+    {
+      "date": "30-07-2024",
+      "price": 448.55,
+      "percentage": 1.42,
+      "max": 449.2,
+      "min": 440,
+      "position": 18,
+      "close": 444.1,
+      "open": 442.25,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 450.15,
+      "percentage": 2.23,
+      "max": 453.9,
+      "min": 445,
+      "position": 8,
+      "close": 450.3,
+      "open": 446.4,
+      "urlFrom": "gainers"
+    }
+  ],
+  "link": "https://groww.in/stocks/tata-power-company-ltd",
+  "symbol": "TATAPOWER"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c686"
+  },
+  "company": "Tata Consumer Products",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1234.1,
+      "percentage": -1.81,
+      "max": 1234.1,
+      "min": 1234.1,
+      "position": 7
+    },
+    {
+      "date": "26-07-2024",
+      "open": 1216.05,
+      "close": 1213.65,
+      "price": 1212.7,
+      "percentage": -1.36,
+      "max": 1215,
+      "min": 1207,
+      "position": 2
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1198.25,
+      "percentage": -2.29,
+      "max": 1204.15,
+      "min": 1185.9,
+      "position": 1,
+      "urlFrom": "losers",
+      "close": 1201.4,
+      "open": 1215
+    },
+    {
+      "price": 1199.7,
+      "percentage": -1.15,
+      "max": 1200.45,
+      "min": 1199.7,
+      "position": 16,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers",
+      "date": "25-07-2024"
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1195.1,
+      "percentage": -0.55,
+      "max": 1211.4,
+      "min": 1189.2,
+      "position": 19,
+      "close": 1194.9,
+      "open": 1206,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 1175.95,
+      "percentage": -2.19,
+      "max": 1193,
+      "min": 1167,
+      "position": 1,
+      "close": 1178.4,
+      "open": 1193,
+      "urlFrom": "losers"
+    }
+  ],
+  "link": "https://groww.in/stocks/tata-global-beverages-ltd",
+  "symbol": "TATACONSUM"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c687"
+  },
+  "company": "Tata Motors",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1024.95,
+      "percentage": 2.31,
+      "max": 1024.95,
+      "min": 1024.95,
+      "position": 8
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1079.75,
+      "percentage": 6.45,
+      "max": 1094,
+      "min": 1079.2,
+      "position": 1
+    },
+    {
+      "date": "26-07-2024",
+      "open": 1111.95,
+      "close": 1118.3,
+      "price": 1101.75,
+      "percentage": 0.99,
+      "max": 1101.75,
+      "min": 1085,
+      "position": 4
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1124,
+      "percentage": 1.5,
+      "max": 1135.1,
+      "min": 1124,
+      "position": 12,
+      "close": 1124,
+      "open": 1124
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1151.35,
+      "percentage": 4.74,
+      "max": 0,
+      "min": 0,
+      "position": 3,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 1154.15,
+      "percentage": -0.99,
+      "max": 1154.15,
+      "min": 1154.15,
+      "position": 5,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    }
+  ],
+  "link": "https://groww.in/stocks/tata-motors-ltd",
+  "symbol": "TATAMOTORS"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c688"
+  },
+  "company": "Tata Steel",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 157.86,
+      "percentage": 2.03,
+      "max": 157.86,
+      "min": 157.06,
+      "position": 8
+    },
+    {
+      "date": "26-07-2024",
+      "open": 158.75,
+      "close": 162.55,
+      "price": 158.56,
+      "percentage": 3.44,
+      "max": 162.8,
+      "min": 158.56,
+      "position": 9
+    },
+    {
+      "date": "29-07-2024",
+      "price": 162.55,
+      "percentage": 0,
+      "max": 162.55,
+      "min": 162.55,
+      "position": 15,
+      "close": 162.87,
+      "open": 164.7
+    }
+  ],
+  "link": "https://groww.in/stocks/tata-steel-ltd",
+  "symbol": "TATASTEEL"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c689"
+  },
+  "company": "Wipro",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 505.9,
+      "percentage": 1.16,
+      "max": 505.9,
+      "min": 505.15,
+      "position": 20
+    },
+    {
+      "date": "26-07-2024",
+      "open": 510,
+      "close": 524.8,
+      "price": 512.85,
+      "percentage": 4.02,
+      "max": 527.25,
+      "min": 512.85,
+      "position": 6
+    },
+    {
+      "date": "31-07-2024",
+      "price": 520.25,
+      "percentage": -0.24,
+      "max": 520.25,
+      "min": 520.25,
+      "position": 20,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    }
+  ],
+  "link": "https://groww.in/stocks/wipro-ltd",
+  "symbol": "WIPRO"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c68a"
+  },
+  "company": "Apollo Hospitals Enterprise",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 6433,
+      "close": 6664.55,
+      "price": 6663.2,
+      "percentage": -4.46,
+      "max": 6670.55,
+      "min": 6654.15,
+      "position": 4
+    },
+    {
+      "date": "29-07-2024",
+      "price": 6635.95,
+      "percentage": -0.67,
+      "max": 6635.95,
+      "min": 6619.8,
+      "position": 16,
+      "close": 6681.65,
+      "open": 6777
+    },
+    {
+      "date": "30-07-2024",
+      "price": 6635,
+      "percentage": -1.3,
+      "max": 6713.15,
+      "min": 6584.1,
+      "position": 8,
+      "close": 6641,
+      "open": 6681.65,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 6612.8,
+      "percentage": -0.72,
+      "max": 6612.8,
+      "min": 6612.8,
+      "position": 11,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 6686.75,
+      "min": 6610,
+      "close": 6612.6,
+      "open": 6664.25,
+      "price": 6612.6,
+      "volume": 154853,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 5976.9,
+      "highPriceRange": 7305.1,
+      "totalBuyQty": 29954,
+      "totalSellQty": 35416,
+      "dayChange": -28.399999999999636,
+      "percentage": -0.42764643878933345,
+      "openInterest": null,
+      "lastTradeQty": 31,
+      "lastTradeTime": 1722414587,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/apollo-hospitals-enterprise-ltd",
+  "symbol": "APOLLOHOSP"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c68c"
+  },
+  "company": "Titan Company",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 3387.7,
+      "percentage": -2.61,
+      "max": 3405.95,
+      "min": 3387.7,
+      "position": 5
+    },
+    {
+      "date": "29-07-2024",
+      "price": 3494.15,
+      "percentage": -2.99,
+      "max": 3494.15,
+      "min": 3389.55,
+      "position": 1,
+      "close": 3411.7,
+      "open": 3495,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "30-07-2024",
+      "price": 3454.9,
+      "percentage": 1.78,
+      "max": 3479,
+      "min": 3410.6,
+      "position": 10,
+      "close": 3468.25,
+      "open": 3424.95,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 3456.75,
+      "percentage": -0.52,
+      "max": 3456.75,
+      "min": 3456.75,
+      "position": 12,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    }
+  ],
+  "link": "https://groww.in/stocks/titan-company-ltd",
+  "symbol": "TITAN"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c68d"
+  },
+  "company": "State Bank of India",
+  "high": "",
+  "low": "",
+  "remarks": "BULL RUN",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 844.65,
+      "close": 862.45,
+      "price": 848.25,
+      "percentage": 0.03,
+      "max": 848.25,
+      "min": 848.25,
+      "position": 7
+    },
+    {
+      "date": "29-07-2024",
+      "price": 866.05,
+      "percentage": 3.01,
+      "max": 888.45,
+      "min": 866.05,
+      "position": 7,
+      "urlFrom": "gainers",
+      "close": 871.6,
+      "open": 866.05
+    },
+    {
+      "date": "31-07-2024",
+      "price": 870.85,
+      "percentage": -0.55,
+      "max": 870.85,
+      "min": 870.85,
+      "position": 15,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    }
+  ],
+  "link": "https://groww.in/stocks/state-bank-of-india",
+  "symbol": "SBIN"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c68e"
+  },
+  "company": "Shriram Finance",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 2665,
+      "percentage": 2.37,
+      "max": 2679.65,
+      "min": 2659.6,
+      "position": 6
+    },
+    {
+      "date": "26-07-2024",
+      "open": 2705.8,
+      "close": 2925,
+      "price": 2705.8,
+      "percentage": 10,
+      "max": 2946.9,
+      "min": 2705.8,
+      "position": 1
+    },
+    {
+      "date": "29-07-2024",
+      "price": 2925,
+      "percentage": 1.8,
+      "max": 2977.65,
+      "min": 2925,
+      "position": 2,
+      "close": 2943,
+      "open": 2970
+    },
+    {
+      "date": "30-07-2024",
+      "price": 2901.5,
+      "percentage": -1.41,
+      "max": 2981.4,
+      "min": 2892,
+      "position": 5,
+      "close": 2912.05,
+      "open": 2943,
+      "urlFrom": "losers"
+    }
+  ],
+  "link": "https://groww.in/stocks/shriram-transport-finance-company-ltd",
+  "symbol": "SHRIRAMFIN"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c68f"
+  },
+  "company": "Cholamandalam Investment & Finance Company",
+  "high": "",
+  "low": "",
+  "remarks": "1100, 1447",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1356.25,
+      "percentage": 2.56,
+      "max": 1360,
+      "min": 1353.4,
+      "position": 4
+    },
+    {
+      "date": "26-07-2024",
+      "open": 1364,
+      "close": 1410.95,
+      "price": 1384.3,
+      "percentage": 5.26,
+      "max": 1435.35,
+      "min": 1384.3,
+      "position": 2
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1410.95,
+      "percentage": 4.58,
+      "max": 1475.6,
+      "min": 1370.45,
+      "position": 1,
+      "close": 1433.4,
+      "open": 1415,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1407,
+      "percentage": -1.84,
+      "max": 1445.8,
+      "min": 1393.2,
+      "position": 2,
+      "close": 1417.85,
+      "open": 1432.85,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 1431.9,
+      "percentage": 1.54,
+      "max": 1433.85,
+      "min": 1409.85,
+      "position": 13,
+      "close": 1433.5,
+      "open": 1416.8,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 1440.85,
+      "min": 1409.85,
+      "close": 1424.9,
+      "open": 1416.8,
+      "price": 1424.9,
+      "volume": 636074,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 1276.1,
+      "highPriceRange": 1559.6,
+      "totalBuyQty": 117593,
+      "totalSellQty": 126725,
+      "dayChange": 7.050000000000182,
+      "percentage": 0.497231724089303,
+      "openInterest": null,
+      "lastTradeQty": 2,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/cholamandalam-investment-finance-company-ltd",
+  "symbol": "CHOLAFIN"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c690"
+  },
+  "company": "Bharat Petroleum Corporation",
+  "high": "340",
+  "low": "290",
+  "remarks": "290, 340",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 313.15,
+      "percentage": 2.34,
+      "max": 313.15,
+      "min": 313.15,
+      "position": 14
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 322.9,
+      "percentage": 3.18,
+      "max": 324.95,
+      "min": 322.9,
+      "position": 6
+    },
+    {
+      "date": "26-07-2024",
+      "open": 327.95,
+      "close": 328.8,
+      "price": 325.25,
+      "percentage": 0.34,
+      "max": 325.8,
+      "min": 325.05,
+      "position": 10
+    },
+    {
+      "date": "29-07-2024",
+      "price": 328.8,
+      "percentage": 3.06,
+      "max": 338.85,
+      "min": 328.8,
+      "position": 5,
+      "urlFrom": "gainers",
+      "close": 337.9,
+      "open": 333.4
+    },
+    {
+      "date": "30-07-2024",
+      "price": 352.2,
+      "percentage": 6.13,
+      "max": 359.05,
+      "min": 337.3,
+      "position": 1,
+      "close": 348.2,
+      "open": 338.55,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 354.1,
+      "min": 346.15,
+      "close": 348.6,
+      "open": 352,
+      "price": 348.6,
+      "volume": 12601749,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 313.4,
+      "highPriceRange": 383,
+      "totalBuyQty": 1182387,
+      "totalSellQty": 2214620,
+      "dayChange": 0.4000000000000341,
+      "percentage": 0.11487650775417407,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/bharat-petroleum-corporation-ltd",
+  "symbol": "BPCL"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c691"
+  },
+  "company": "Bharat Electronics",
+  "high": "",
+  "low": "",
+  "remarks": "306,333",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 303.8,
+      "close": 309.9,
+      "price": 307.35,
+      "percentage": 2.22,
+      "max": 308.15,
+      "min": 307.35,
+      "position": 14
+    },
+    {
+      "date": "29-07-2024",
+      "price": 309.9,
+      "percentage": 4.82,
+      "max": 324.85,
+      "min": 309.9,
+      "position": 3,
+      "close": 321.35,
+      "open": 312.8,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "30-07-2024",
+      "price": 318.85,
+      "percentage": -1.06,
+      "max": 326.55,
+      "min": 317.6,
+      "position": 15,
+      "close": 318.1,
+      "open": 325.2,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 317.4,
+      "percentage": -0.75,
+      "max": 317.4,
+      "min": 317.4,
+      "position": 10,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 320.6,
+      "min": 315.7,
+      "close": 316.75,
+      "open": 319.9,
+      "price": 316.75,
+      "volume": 15036297,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 286.3,
+      "highPriceRange": 349.9,
+      "totalBuyQty": 1850756,
+      "totalSellQty": 6111833,
+      "dayChange": -1.3500000000000227,
+      "percentage": -0.4243948443885642,
+      "openInterest": null,
+      "lastTradeQty": 6,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/bharat-electronics-ltd",
+  "symbol": "BEL"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c692"
+  },
+  "company": "Kotak Mahindra Bank",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1750.7,
+      "percentage": -1.03,
+      "max": 1750.7,
+      "min": 1750.7,
+      "position": 15
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1763.6,
+      "percentage": -1.67,
+      "max": 1775.4,
+      "min": 1763.4,
+      "position": 15
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1813.85,
+      "percentage": -1.65,
+      "max": 1813.85,
+      "min": 1784,
+      "position": 4,
+      "close": 1793.9,
+      "open": 1824.7,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 1794.6,
+      "min": 1773.15,
+      "close": 1790.05,
+      "open": 1793,
+      "price": 1790.05,
+      "volume": 2500490,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 1607.5,
+      "highPriceRange": 1964.7,
+      "totalBuyQty": 221878,
+      "totalSellQty": 250496,
+      "dayChange": 3.9500000000000455,
+      "percentage": 0.22115223111808102,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    },
+    {
+      "date": "31-07-2024",
+      "price": 1800.2,
+      "percentage": 1.61,
+      "max": 1800.2,
+      "min": 1800.2,
+      "position": 18,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    }
+  ],
+  "link": "https://groww.in/stocks/kotak-mahindra-bank-ltd",
+  "symbol": "KOTAKBANK"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c693"
+  },
+  "company": "Infosys",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 1825.35,
+      "close": 1878.9,
+      "price": 1857.55,
+      "percentage": 3.15,
+      "max": 1882.3,
+      "min": 1857.55,
+      "position": 4
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1878.9,
+      "percentage": 0,
+      "max": 1878.9,
+      "min": 1878.9,
+      "position": 19,
+      "close": 1871.1,
+      "open": 1893.6
+    },
+    {
+      "date": "31-07-2024",
+      "price": 1873.25,
+      "percentage": -0.61,
+      "max": 1873.25,
+      "min": 1873.25,
+      "position": 10,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 1885.15,
+      "min": 1865.05,
+      "close": 1869.1,
+      "open": 1877,
+      "price": 1869.1,
+      "volume": 2788083,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 1689.45,
+      "highPriceRange": 2064.85,
+      "totalBuyQty": 206404,
+      "totalSellQty": 471331,
+      "dayChange": -8.050000000000182,
+      "percentage": -0.42884159497110946,
+      "openInterest": null,
+      "lastTradeQty": 16,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/infosys-ltd",
+  "symbol": "INFY"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c694"
+  },
+  "company": "Samvardhana Motherson International",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 189.75,
+      "percentage": -1.55,
+      "max": 189.75,
+      "min": 189.75,
+      "position": 11
+    },
+    {
+      "date": "29-07-2024",
+      "price": 198.71,
+      "percentage": -1.29,
+      "max": 198.94,
+      "min": 194.32,
+      "position": 12,
+      "close": 195.72,
+      "open": 198
+    },
+    {
+      "date": "30-07-2024",
+      "price": 194.2,
+      "percentage": -1.34,
+      "max": 125.15,
+      "min": 122.1,
+      "position": 6,
+      "close": 124,
+      "open": 123.3,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 196.89,
+      "percentage": 1.88,
+      "max": 125.15,
+      "min": 122.1,
+      "position": 7,
+      "close": 124,
+      "open": 123.3,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 125.15,
+      "min": 122.1,
+      "close": 124,
+      "open": 123.3,
+      "price": 124,
+      "volume": 7324034,
+      "tsInMillis": 1654684169,
+      "lowPriceRange": 109.85,
+      "highPriceRange": 134.25,
+      "totalBuyQty": 0,
+      "totalSellQty": 4659,
+      "dayChange": 0,
+      "percentage": 0,
+      "openInterest": null,
+      "lastTradeQty": 15,
+      "lastTradeTime": 1654664369,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/motherson-sumi-systems-ltd",
+  "symbol": "MOTHERSUMI"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c695"
+  },
+  "company": "Pidilite Industries",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 3110.7,
+      "percentage": -1.57,
+      "max": 3110.7,
+      "min": 3110.7,
+      "position": 13
+    },
+    {
+      "date": "30-07-2024",
+      "price": 3215.05,
+      "percentage": 2.01,
+      "max": 3230,
+      "min": 3141.15,
+      "position": 10,
+      "close": 3156,
+      "open": 3153,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 3198.1,
+      "percentage": 1.77,
+      "max": 3199.95,
+      "min": 3156,
+      "position": 7,
+      "close": 3198.95,
+      "open": 3160,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 3214.85,
+      "min": 3156,
+      "close": 3184.5,
+      "open": 3160,
+      "price": 3184.5,
+      "volume": 163892,
+      "tsInMillis": 1722414589,
+      "lowPriceRange": 2840.4,
+      "highPriceRange": 3471.6,
+      "totalBuyQty": 40584,
+      "totalSellQty": 63772,
+      "dayChange": 28.5,
+      "percentage": 0.9030418250950569,
+      "openInterest": null,
+      "lastTradeQty": 15,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "symbol": "PIDILITIND",
+  "link": "https://groww.in/stocks/pidilite-industries-ltd"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c696"
+  },
+  "company": "Havells India",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1813.3,
+      "percentage": 1.83,
+      "max": 1824.5,
+      "min": 1810.9,
+      "position": 12
+    },
+    {
+      "date": "26-07-2024",
+      "open": 1846,
+      "close": 1838.65,
+      "price": 1843.3,
+      "percentage": 0.9,
+      "max": 1843.3,
+      "min": 1843.3,
+      "position": 8
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1825.1,
+      "percentage": -1.28,
+      "max": 1844.65,
+      "min": 1812,
+      "position": 5,
+      "close": 1815.8,
+      "open": 1837.6,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 1839.9,
+      "percentage": 1.98,
+      "max": 1839.9,
+      "min": 1839.9,
+      "position": 10,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 1852,
+      "min": 1819.1,
+      "close": 1849,
+      "open": 1823,
+      "price": 1849,
+      "volume": 486864,
+      "tsInMillis": 1722414586,
+      "lowPriceRange": 1634.25,
+      "highPriceRange": 1997.35,
+      "totalBuyQty": 87121,
+      "totalSellQty": 106650,
+      "dayChange": 33.200000000000045,
+      "percentage": 1.8283951977090012,
+      "openInterest": null,
+      "lastTradeQty": 12,
+      "lastTradeTime": 1722414582,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/havells-india-ltd",
+  "symbol": "HAVELLS"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c697"
+  },
+  "company": "Dabur India",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 631.65,
+      "percentage": 3.17,
+      "max": 631.65,
+      "min": 631.65,
+      "position": 2
+    },
+    {
+      "date": "26-07-2024",
+      "open": 631.2,
+      "close": 632.45,
+      "price": 626.5,
+      "percentage": 0.74,
+      "max": 630.9,
+      "min": 626.5,
+      "position": 9
+    },
+    {
+      "date": "29-07-2024",
+      "price": 641.45,
+      "percentage": 1.42,
+      "max": 641.45,
+      "min": 641.45,
+      "position": 20,
+      "close": 641.1,
+      "open": 635.85
+    },
+    {
+      "date": "30-07-2024",
+      "price": 636,
+      "percentage": -1.17,
+      "max": 648.85,
+      "min": 632.5,
+      "position": 12,
+      "close": 633.9,
+      "open": 641.05,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 640.75,
+      "min": 630,
+      "close": 636.15,
+      "open": 636.95,
+      "price": 636.15,
+      "volume": 1670610,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 570.55,
+      "highPriceRange": 697.25,
+      "totalBuyQty": 273783,
+      "totalSellQty": 304834,
+      "dayChange": 2.25,
+      "percentage": 0.35494557501183155,
+      "openInterest": null,
+      "lastTradeQty": 7,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/dabur-india-ltd",
+  "symbol": "DABUR"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c698"
+  },
+  "company": "Torrent Pharmaceuticals",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 3050.1,
+      "percentage": -2.82,
+      "max": 3050.1,
+      "min": 3050.1,
+      "position": 3
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 3092,
+      "percentage": -2.12,
+      "max": 3099.05,
+      "min": 3079.2,
+      "position": 7
+    },
+    {
+      "date": "26-07-2024",
+      "open": 3090.55,
+      "close": 3194.9,
+      "price": 3223.3,
+      "percentage": -4.47,
+      "max": 3223.3,
+      "min": 3194.9,
+      "position": 5
+    },
+    {
+      "date": "29-07-2024",
+      "price": 3194.9,
+      "percentage": -1.71,
+      "max": 3194.9,
+      "min": 3140.15,
+      "position": 5,
+      "close": 3198.4,
+      "open": 3195
+    },
+    {
+      "date": "30-07-2024",
+      "price": 3177.1,
+      "percentage": -2.84,
+      "max": 3239.95,
+      "min": 3103,
+      "position": 2,
+      "close": 3111.15,
+      "open": 3198.65,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 3152.15,
+      "percentage": 3.05,
+      "max": 3162.15,
+      "min": 3122.2,
+      "position": 3,
+      "close": 3148.05,
+      "open": 3127.4,
+      "urlFrom": "gainers"
+    }
+  ],
+  "link": "https://groww.in/stocks/torrent-pharmaceuticals-ltd",
+  "symbol": "TORNTPHARM"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c699"
+  },
+  "company": "Bajaj Finance",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 6582.55,
+      "percentage": -2.15,
+      "max": 6582.55,
+      "min": 6582.55,
+      "position": 6
+    },
+    {
+      "date": "23-07-2024",
+      "max": 6849.5,
+      "min": 6807,
+      "close": 6830.4,
+      "open": 6826.95,
+      "price": 6830.4,
+      "volume": 415830,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 6141.25,
+      "highPriceRange": 7505.95,
+      "totalBuyQty": 59973,
+      "totalSellQty": 100294,
+      "dayChange": 6.799999999999272,
+      "percentage": 0.09965414150887027,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414587,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    },
+    {
+      "date": "31-07-2024",
+      "price": 6820,
+      "percentage": -0.05,
+      "max": 6820,
+      "min": 6820,
+      "position": 20,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    }
+  ],
+  "symbol": "BAJFINANCE",
+  "link": "https://groww.in/stocks/bajaj-finance-ltd"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c69a"
+  },
+  "company": "Adani Enterprises",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 2995,
+      "close": 3080.5,
+      "price": 3094.8,
+      "percentage": 4.32,
+      "max": 3102,
+      "min": 3076.1,
+      "position": 5
+    },
+    {
+      "date": "30-07-2024",
+      "price": 3128.85,
+      "percentage": 2.05,
+      "max": 3155,
+      "min": 3066.65,
+      "position": 12,
+      "close": 3128.75,
+      "open": 3092,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 3161.8,
+      "percentage": 2.14,
+      "max": 3161.8,
+      "min": 3161.8,
+      "position": 6,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 3197.5,
+      "min": 3135,
+      "close": 3175.6,
+      "open": 3141,
+      "price": 3175.6,
+      "volume": 2006254,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 2815.9,
+      "highPriceRange": 3441.6,
+      "totalBuyQty": 120896,
+      "totalSellQty": 305188,
+      "dayChange": 46.84999999999991,
+      "percentage": 1.4974031162604846,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414586,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/adani-enterprises-ltd",
+  "symbol": "ADANIENT"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c69c"
+  },
+  "company": "JSW Steel",
+  "high": "",
+  "low": "",
+  "remarks": "800,1000",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 875.55,
+      "percentage": -0.66,
+      "max": 875.55,
+      "min": 875.55,
+      "position": 18
+    },
+    {
+      "date": "26-07-2024",
+      "open": 880,
+      "close": 900.55,
+      "price": 885.8,
+      "percentage": -3.89,
+      "max": 908.5,
+      "min": 885.8,
+      "position": 8
+    },
+    {
+      "date": "29-07-2024",
+      "price": 896.15,
+      "percentage": -0.49,
+      "max": 896.55,
+      "min": 896.15,
+      "position": 15,
+      "close": 898.55,
+      "open": 909.9
+    },
+    {
+      "date": "31-07-2024",
+      "price": 911.7,
+      "percentage": 3.68,
+      "max": 914.1,
+      "min": 902.7,
+      "position": 2,
+      "close": 912.2,
+      "open": 908.95,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 927.35,
+      "min": 902.7,
+      "close": 923.7,
+      "open": 908.95,
+      "price": 923.7,
+      "volume": 1920670,
+      "tsInMillis": 1722414586,
+      "lowPriceRange": 811.9,
+      "highPriceRange": 992.3,
+      "totalBuyQty": 260763,
+      "totalSellQty": 292581,
+      "dayChange": 21.600000000000023,
+      "percentage": 2.3944130362487557,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414586,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/jsw-steel-ltd",
+  "symbol": "JSWSTEEL"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c69d"
+  },
+  "company": "HDFC Bank",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1601,
+      "percentage": -1.08,
+      "max": 1601,
+      "min": 1601,
+      "position": 17
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1618.9,
+      "percentage": -1.21,
+      "max": 1623.4,
+      "min": 1618.9,
+      "position": 18
+    },
+    {
+      "date": "26-07-2024",
+      "open": 1605,
+      "close": 1618.15,
+      "price": 1601.25,
+      "percentage": -1.2,
+      "max": 1616.5,
+      "min": 1597.2,
+      "position": 3
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1618.15,
+      "percentage": -1.04,
+      "max": 1618.15,
+      "min": 1601.3,
+      "position": 6,
+      "close": 1605.05,
+      "open": 1615
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1629.1,
+      "percentage": 1.75,
+      "max": 1634.75,
+      "min": 1599,
+      "position": 14,
+      "close": 1615.55,
+      "open": 1602,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 1627.9,
+      "min": 1611.5,
+      "close": 1615.55,
+      "open": 1614,
+      "price": 1615.55,
+      "volume": 10688888,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 1454,
+      "highPriceRange": 1777.1,
+      "totalBuyQty": 595679,
+      "totalSellQty": 1284303,
+      "dayChange": 0,
+      "percentage": 0,
+      "openInterest": null,
+      "lastTradeQty": 4,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/hdfc-bank-ltd",
+  "symbol": "HDFCBANK"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c69e"
+  },
+  "company": "Tata Consultancy Services",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "",
+  "records": [
+    {
+      "date": "30-07-2024",
+      "price": 4345.95,
+      "percentage": -0.8,
+      "max": 4398,
+      "min": 4327.3,
+      "position": 12,
+      "close": 4365.35,
+      "open": 4391.1,
+      "urlFrom": "losers"
+    }
+  ],
+  "symbol": "TCS",
+  "link": "https://groww.in/stocks/tata-consultancy-services-ltd"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c69f"
+  },
+  "company": "ICICI Bank",
+  "high": "",
+  "low": "",
+  "remarks": "1200, 1300",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1211.45,
+      "percentage": 1.25,
+      "max": 1211.45,
+      "min": 1211.45,
+      "position": 12
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1202.85,
+      "percentage": 2.05,
+      "max": 1202.85,
+      "min": 1197.9,
+      "position": 6
+    },
+    {
+      "date": "26-07-2024",
+      "open": 1190,
+      "close": 1207.2,
+      "price": 1197.3,
+      "percentage": 0.27,
+      "max": 1197.3,
+      "min": 1194.65,
+      "position": 4
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1207.2,
+      "percentage": 2.92,
+      "max": 1242.5,
+      "min": 1207.2,
+      "position": 6,
+      "close": 1212.7,
+      "open": 1215.15
+    },
+    {
+      "date": "31-07-2024",
+      "price": 1223.5,
+      "percentage": 1.16,
+      "max": 1223.5,
+      "min": 1223.5,
+      "position": 18,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 1224.65,
+      "min": 1211,
+      "close": 1213.85,
+      "open": 1219,
+      "price": 1213.85,
+      "volume": 9982068,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 1088.5,
+      "highPriceRange": 1330.35,
+      "totalBuyQty": 412081,
+      "totalSellQty": 636784,
+      "dayChange": 4.399999999999864,
+      "percentage": 0.363801728058197,
+      "openInterest": null,
+      "lastTradeQty": 5,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/icici-bank-ltd",
+  "symbol": "ICICIBANK"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6a0"
+  },
+  "company": "Power Grid Corporation of India",
+  "high": "",
+  "low": "",
+  "remarks": "ATH",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 340.45,
+      "percentage": -0.99,
+      "max": 340.5,
+      "min": 340.35,
+      "position": 18
+    },
+    {
+      "date": "29-07-2024",
+      "price": 344.2,
+      "percentage": -1.58,
+      "max": 344.2,
+      "min": 338.75,
+      "position": 4,
+      "close": 342.35,
+      "open": 339.8,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "30-07-2024",
+      "price": 354.95,
+      "percentage": 4.07,
+      "max": 356.95,
+      "min": 343.3,
+      "position": 3,
+      "close": 349.8,
+      "open": 345,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 343.2,
+      "percentage": -1.89,
+      "max": 350.65,
+      "min": 342.6,
+      "position": 1,
+      "close": 346.85,
+      "open": 348.25,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 350.65,
+      "min": 342.6,
+      "close": 347.8,
+      "open": 348.25,
+      "price": 347.8,
+      "volume": 11541737,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 314.85,
+      "highPriceRange": 384.75,
+      "totalBuyQty": 1185074,
+      "totalSellQty": 1171730,
+      "dayChange": -2,
+      "percentage": -0.5717552887364208,
+      "openInterest": null,
+      "lastTradeQty": 60,
+      "lastTradeTime": 1722414587,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/power-grid-corporation-of-india-ltd",
+  "symbol": "POWERGRID"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6a1"
+  },
+  "company": "Bank of Baroda",
+  "high": "",
+  "low": "",
+  "remarks": "248, 290",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 246.35,
+      "percentage": 1.57,
+      "max": 246.5,
+      "min": 245.05,
+      "position": 11
+    },
+    {
+      "date": "26-07-2024",
+      "open": 246,
+      "close": 249.7,
+      "price": 245.1,
+      "percentage": 0.1,
+      "max": 245.1,
+      "min": 245.1,
+      "position": 13
+    },
+    {
+      "date": "29-07-2024",
+      "price": 249.7,
+      "percentage": 4.37,
+      "max": 260.6,
+      "min": 249.7,
+      "position": 3,
+      "close": 255.9,
+      "open": 254,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 253.8,
+      "percentage": -1.76,
+      "max": 253.8,
+      "min": 253.8,
+      "position": 1,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 257.4,
+      "min": 252.2,
+      "close": 252.9,
+      "open": 257.4,
+      "price": 252.9,
+      "volume": 8605968,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 230.65,
+      "highPriceRange": 281.85,
+      "totalBuyQty": 1635562,
+      "totalSellQty": 2201924,
+      "dayChange": -3.3499999999999943,
+      "percentage": -1.3073170731707295,
+      "openInterest": null,
+      "lastTradeQty": 4,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/bank-of-baroda",
+  "symbol": "BANKBARODA"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6a2"
+  },
+  "company": "Canara Bank",
+  "high": "",
+  "low": "",
+  "remarks": "110, 125",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 110.84,
+      "percentage": 1.44,
+      "max": 111,
+      "min": 110.84,
+      "position": 9
+    },
+    {
+      "date": "26-07-2024",
+      "open": 112.49,
+      "close": 113.86,
+      "price": 111.78,
+      "percentage": 0.1,
+      "max": 111.78,
+      "min": 111.78,
+      "position": 16
+    },
+    {
+      "date": "29-07-2024",
+      "price": 113.86,
+      "percentage": 3.43,
+      "max": 117.76,
+      "min": 113.86,
+      "position": 2,
+      "close": 115.91,
+      "open": 115.2,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 115.44,
+      "percentage": -1.19,
+      "max": 115.44,
+      "min": 115.44,
+      "position": 5,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 116.19,
+      "min": 114.55,
+      "close": 114.79,
+      "open": 116,
+      "price": 114.79,
+      "volume": 11676831,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 104.19,
+      "highPriceRange": 127.34,
+      "totalBuyQty": 2409823,
+      "totalSellQty": 5167353,
+      "dayChange": -0.9799999999999898,
+      "percentage": -0.8465060032823614,
+      "openInterest": null,
+      "lastTradeQty": 15,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/canara-bank",
+  "symbol": "CANBK"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6a3"
+  },
+  "company": "Maruti Suzuki India",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 12470,
+      "close": 12663.7,
+      "price": 12447.5,
+      "percentage": -0.85,
+      "max": 12468,
+      "min": 12403.15,
+      "position": 5
+    },
+    {
+      "date": "30-07-2024",
+      "price": 12914.15,
+      "percentage": 1.54,
+      "max": 12968.8,
+      "min": 12709.9,
+      "position": 16,
+      "close": 12873.65,
+      "open": 12760,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 13076.3,
+      "min": 12895.15,
+      "close": 12975.8,
+      "open": 12980,
+      "price": 12975.8,
+      "volume": 477320,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 11586.3,
+      "highPriceRange": 14161,
+      "totalBuyQty": 20873,
+      "totalSellQty": 54111,
+      "dayChange": 102.14999999999964,
+      "percentage": 0.7934812582290153,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    },
+    {
+      "date": "31-07-2024",
+      "price": 13155.6,
+      "percentage": 3.65,
+      "max": 13155.6,
+      "min": 13155.6,
+      "position": 3,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    }
+  ],
+  "link": "https://groww.in/stocks/maruti-suzuki-india-ltd",
+  "symbol": "MARUTI"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6a4"
+  },
+  "company": "IndusInd Bank",
+  "high": "",
+  "low": "",
+  "remarks": "1400, 1700",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1397.7,
+      "percentage": 1.1,
+      "max": 1397.7,
+      "min": 1397.7,
+      "position": 20
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1379.15,
+      "percentage": 1.58,
+      "max": 1380,
+      "min": 1374.55,
+      "position": 14
+    },
+    {
+      "date": "26-07-2024",
+      "open": 1365,
+      "close": 1403.9,
+      "price": 1360.25,
+      "percentage": -1.37,
+      "max": 1360.25,
+      "min": 1360.25,
+      "position": 1
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1403.9,
+      "percentage": 2.88,
+      "max": 1444.4,
+      "min": 1403.9,
+      "position": 4,
+      "urlFrom": "gainers",
+      "close": 1411.5,
+      "open": 1415
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1426.45,
+      "percentage": 1.45,
+      "max": 1432.7,
+      "min": 1407.2,
+      "position": 14,
+      "close": 1429.7,
+      "open": 1411.5,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 1419.9,
+      "percentage": -0.93,
+      "max": 1419.9,
+      "min": 1419.9,
+      "position": 6,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 1435,
+      "min": 1414.05,
+      "close": 1423.1,
+      "open": 1435,
+      "price": 1423.1,
+      "volume": 2265156,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 1286.75,
+      "highPriceRange": 1572.65,
+      "totalBuyQty": 247091,
+      "totalSellQty": 332984,
+      "dayChange": -6.600000000000136,
+      "percentage": -0.46163530810660536,
+      "openInterest": null,
+      "lastTradeQty": 50,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/indusind-bank-ltd",
+  "symbol": "INDUSINDBK"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6a5"
+  },
+  "company": "Axis Bank",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1235.6,
+      "percentage": -2.19,
+      "max": 1235.6,
+      "min": 1235.6,
+      "position": 6
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1157.15,
+      "percentage": -6.62,
+      "max": 1173,
+      "min": 1157.15,
+      "position": 1
+    },
+    {
+      "date": "26-07-2024",
+      "open": 1165,
+      "close": 1177.35,
+      "price": 1166.05,
+      "percentage": -0.84,
+      "max": 1175.65,
+      "min": 1166.05,
+      "position": 2
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1168.05,
+      "percentage": -1.08,
+      "max": 1169.8,
+      "min": 1164.65,
+      "position": 15,
+      "close": 1170.05,
+      "open": 1182.35
+    },
+    {
+      "date": "31-07-2024",
+      "price": 1162.75,
+      "percentage": -1.03,
+      "max": 1162.75,
+      "min": 1162.75,
+      "position": 5,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 1171,
+      "min": 1154,
+      "close": 1168.15,
+      "open": 1157,
+      "price": 1168.15,
+      "volume": 11204805,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 1053,
+      "highPriceRange": 1287,
+      "totalBuyQty": 595682,
+      "totalSellQty": 465441,
+      "dayChange": -1.849999999999909,
+      "percentage": -0.15811965811965034,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/axis-bank-ltd",
+  "symbol": "AXISBANK"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6a6"
+  },
+  "company": "HCL Technologies",
+  "high": 1700,
+  "low": 1316,
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 1602.8,
+      "close": 1635.35,
+      "price": 1597.05,
+      "percentage": -3.24,
+      "max": 1639,
+      "min": 1597.05,
+      "position": 14
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1628.45,
+      "percentage": -0.9,
+      "max": 1629.65,
+      "min": 1620.6,
+      "position": 14,
+      "urlFrom": "losers",
+      "close": 1632.35,
+      "open": 1640.2
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1622.75,
+      "percentage": -0.86,
+      "max": 1633,
+      "min": 1618,
+      "position": 13,
+      "close": 1630.25,
+      "open": 1629,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 1641.7,
+      "min": 1619.2,
+      "close": 1640.45,
+      "open": 1621,
+      "price": 1640.45,
+      "volume": 1061804,
+      "tsInMillis": 1722414589,
+      "lowPriceRange": 1467.25,
+      "highPriceRange": 1793.25,
+      "totalBuyQty": 148869,
+      "totalSellQty": 217840,
+      "dayChange": 10.200000000000045,
+      "percentage": 0.6256709093697314,
+      "openInterest": null,
+      "lastTradeQty": 67,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/hcl-technologies-ltd",
+  "symbol": "HCLTECH"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6a8"
+  },
+  "company": "DLF",
+  "high": "",
+  "low": "",
+  "remarks": "800,922",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 806.15,
+      "percentage": 1.87,
+      "max": 810.1,
+      "min": 804.1,
+      "position": 9
+    },
+    {
+      "date": "26-07-2024",
+      "open": 817.45,
+      "close": 829.7,
+      "price": 832.8,
+      "percentage": 3.22,
+      "max": 837.8,
+      "min": 832.8,
+      "position": 2
+    },
+    {
+      "date": "29-07-2024",
+      "price": 833.95,
+      "percentage": 5.55,
+      "max": 875.75,
+      "min": 833.95,
+      "position": 2,
+      "urlFrom": "gainers",
+      "close": 870,
+      "open": 833.95
+    },
+    {
+      "date": "30-07-2024",
+      "price": 881.95,
+      "percentage": 1.68,
+      "max": 885.45,
+      "min": 870,
+      "position": 14,
+      "close": 879.9,
+      "open": 874.65,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 872.4,
+      "percentage": 1.84,
+      "max": 872.4,
+      "min": 872.4,
+      "position": 13,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 891.55,
+      "min": 870.4,
+      "close": 889.75,
+      "open": 882.55,
+      "price": 889.75,
+      "volume": 2954459,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 787.45,
+      "highPriceRange": 962.35,
+      "totalBuyQty": 293780,
+      "totalSellQty": 534083,
+      "dayChange": 14.850000000000023,
+      "percentage": 1.6973368384958307,
+      "openInterest": null,
+      "lastTradeQty": 8,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/dlf-ltd",
+  "symbol": "DLF"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6a9"
+  },
+  "company": "Punjab National Bank",
+  "high": "",
+  "low": "",
+  "remarks": "117, 136",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 116.48,
+      "percentage": 1.08,
+      "max": 116.48,
+      "min": 116.48,
+      "position": 19
+    },
+    {
+      "date": "29-07-2024",
+      "price": 119.95,
+      "percentage": 7.26,
+      "max": 128.66,
+      "min": 119.95,
+      "position": 1,
+      "close": 127,
+      "open": 124.86,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "30-07-2024",
+      "price": 125.91,
+      "percentage": -1.49,
+      "max": 127.7,
+      "min": 124.9,
+      "position": 4,
+      "close": 125.51,
+      "open": 127,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 123.85,
+      "percentage": -2.09,
+      "max": 123.85,
+      "min": 123.85,
+      "position": 1,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 126,
+      "min": 123.63,
+      "close": 124.18,
+      "open": 126,
+      "price": 124.18,
+      "volume": 24864551,
+      "tsInMillis": 1722414587,
+      "lowPriceRange": 112.95,
+      "highPriceRange": 138.06,
+      "totalBuyQty": 3524482,
+      "totalSellQty": 6060688,
+      "dayChange": -1.3299999999999983,
+      "percentage": -1.0596765197992177,
+      "openInterest": null,
+      "lastTradeQty": 252,
+      "lastTradeTime": 1722414587,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/punjab-national-bank",
+  "symbol": "PNB"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6aa"
+  },
+  "company": "TVS Motor Company",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 2440.9,
+      "percentage": -1.27,
+      "max": 2440.9,
+      "min": 2440.9,
+      "position": 16
+    },
+    {
+      "date": "26-07-2024",
+      "open": 2449.5,
+      "close": 2508,
+      "price": 2508,
+      "percentage": -2.79,
+      "max": 2517.55,
+      "min": 2508,
+      "position": 7
+    },
+    {
+      "date": "29-07-2024",
+      "price": 2508,
+      "percentage": -1.59,
+      "max": 2508,
+      "min": 2468.1,
+      "position": 8,
+      "close": 2484.6,
+      "open": 2529,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 2543.3,
+      "percentage": 2.36,
+      "max": 2544,
+      "min": 2492.1,
+      "position": 6,
+      "close": 2541,
+      "open": 2492.1,
+      "urlFrom": "gainers"
+    }
+  ],
+  "link": "https://groww.in/stocks/tvs-motor-company-ltd",
+  "symbol": "TVSMOTOR"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6ab"
+  },
+  "company": "United Spirits",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1407.1,
+      "percentage": -5.64,
+      "max": 1407.1,
+      "min": 1407.1,
+      "position": 2
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1430.85,
+      "percentage": -4.82,
+      "max": 1449.45,
+      "min": 1427.65,
+      "position": 3
+    },
+    {
+      "date": "26-07-2024",
+      "open": 1441.05,
+      "close": 1415.4,
+      "price": 1435.4,
+      "percentage": -2.13,
+      "max": 1435.4,
+      "min": 1413.05,
+      "position": 1
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1415.4,
+      "percentage": -0.54,
+      "max": 1415.4,
+      "min": 1407.7,
+      "position": 15,
+      "close": 1421.1,
+      "open": 1430
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1411.6,
+      "percentage": -1.07,
+      "max": 1313.9,
+      "min": 1268.55,
+      "position": 17,
+      "close": 1305.45,
+      "open": 1298.5,
+      "urlFrom": "losers"
+    }
+  ],
+  "link": "https://groww.in/stocks/united-spirits-ltd",
+  "symbol": "MCDOWELL-N"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6ac"
+  },
+  "company": "NTPC",
+  "high": "",
+  "low": "",
+  "remarks": "ATH",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 394.95,
+      "close": 396.3,
+      "price": 391.25,
+      "percentage": -0.23,
+      "max": 391.6,
+      "min": 391.25,
+      "position": 13
+    },
+    {
+      "date": "29-07-2024",
+      "price": 396.3,
+      "percentage": -2.88,
+      "max": 407.7,
+      "min": 393.15,
+      "position": 2,
+      "close": 393.9,
+      "open": 404
+    },
+    {
+      "date": "30-07-2024",
+      "price": 406.4,
+      "percentage": 4.06,
+      "max": 412.7,
+      "min": 397,
+      "position": 3,
+      "close": 406.95,
+      "open": 397,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 415.65,
+      "percentage": 2.41,
+      "max": 417.25,
+      "min": 408.55,
+      "position": 4,
+      "close": 416.55,
+      "open": 409.5,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 417.4,
+      "min": 408.55,
+      "close": 415.2,
+      "open": 409.5,
+      "price": 415.2,
+      "volume": 21386899,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 366.25,
+      "highPriceRange": 447.6,
+      "totalBuyQty": 1336520,
+      "totalSellQty": 2203409,
+      "dayChange": 8.25,
+      "percentage": 2.027276078142278,
+      "openInterest": null,
+      "lastTradeQty": 10,
+      "lastTradeTime": 1722414587,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/ntpc-ltd",
+  "symbol": "NTPC"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6ad"
+  },
+  "company": "Indian Oil Corporation",
+  "high": "160",
+  "low": "190",
+  "remarks": "160, 190",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 173.81,
+      "percentage": 4.05,
+      "max": 175.62,
+      "min": 173.81,
+      "position": 3
+    },
+    {
+      "date": "26-07-2024",
+      "open": 178.34,
+      "close": 176.55,
+      "price": 178.25,
+      "percentage": 0.79,
+      "max": 178.25,
+      "min": 175.76,
+      "position": 7
+    },
+    {
+      "date": "29-07-2024",
+      "price": 176.55,
+      "percentage": 2.76,
+      "max": 181.43,
+      "min": 176.55,
+      "position": 3,
+      "close": 180.39,
+      "open": 178
+    },
+    {
+      "date": "30-07-2024",
+      "price": 183.67,
+      "percentage": 2.97,
+      "max": 185.97,
+      "min": 178.31,
+      "position": 5,
+      "close": 182.95,
+      "open": 180,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 181.95,
+      "percentage": -1.34,
+      "max": 181.95,
+      "min": 181.95,
+      "position": 5,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 184.85,
+      "min": 180.52,
+      "close": 181.58,
+      "open": 183.5,
+      "price": 181.58,
+      "volume": 25345859,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 164.65,
+      "highPriceRange": 201.24,
+      "totalBuyQty": 2592216,
+      "totalSellQty": 6158287,
+      "dayChange": -1.3699999999999761,
+      "percentage": -0.7488384804591288,
+      "openInterest": null,
+      "lastTradeQty": 25,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/indian-oil-corporation-ltd",
+  "symbol": "IOC"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6ae"
+  },
+  "company": "Coal India",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 499.15,
+      "percentage": 2.49,
+      "max": 499.15,
+      "min": 499.15,
+      "position": 6
+    },
+    {
+      "date": "26-07-2024",
+      "open": 498.25,
+      "close": 509.85,
+      "price": 500,
+      "percentage": 3.5,
+      "max": 511.3,
+      "min": 500,
+      "position": 9
+    },
+    {
+      "date": "30-07-2024",
+      "price": 520.85,
+      "percentage": 2.55,
+      "max": 525.6,
+      "min": 509.95,
+      "position": 6,
+      "close": 519.35,
+      "open": 512.15,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 525.4,
+      "min": 510.5,
+      "close": 521.6,
+      "open": 523.45,
+      "price": 521.6,
+      "volume": 8580884,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 467.45,
+      "highPriceRange": 571.25,
+      "totalBuyQty": 689183,
+      "totalSellQty": 1319848,
+      "dayChange": 2.25,
+      "percentage": 0.43323385000481374,
+      "openInterest": null,
+      "lastTradeQty": 3,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/coal-india-ltd",
+  "symbol": "COALINDIA"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6b0"
+  },
+  "company": "Hindustan Aeronautics",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 4850,
+      "close": 4905.4,
+      "price": 4903.9,
+      "percentage": 1.83,
+      "max": 4918.45,
+      "min": 4903.9,
+      "position": 19
+    },
+    {
+      "date": "29-07-2024",
+      "price": 4905.4,
+      "percentage": 2.74,
+      "max": 5039.95,
+      "min": 4905.4,
+      "position": 6,
+      "urlFrom": "gainers",
+      "close": 5030,
+      "open": 4946.8
+    },
+    {
+      "date": "30-07-2024",
+      "price": 4996.7,
+      "percentage": -1.58,
+      "max": 5082,
+      "min": 4945.1,
+      "position": 4,
+      "close": 4953.65,
+      "open": 5049.95,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 4987.9,
+      "min": 4924.55,
+      "close": 4962.95,
+      "open": 4953.65,
+      "price": 4962.95,
+      "volume": 733614,
+      "tsInMillis": 1722414589,
+      "lowPriceRange": 4458.3,
+      "highPriceRange": 5449,
+      "totalBuyQty": 108974,
+      "totalSellQty": 222073,
+      "dayChange": 9.300000000000182,
+      "percentage": 0.18774035307299028,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    },
+    {
+      "date": "31-07-2024",
+      "price": 4940.05,
+      "percentage": -0.8,
+      "max": 4940.05,
+      "min": 4940.05,
+      "position": 10,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    }
+  ],
+  "link": "https://groww.in/stocks/hindustan-aeronautics-ltd",
+  "symbol": "HAL"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6b1"
+  },
+  "company": "Power Finance Corporation",
+  "high": "",
+  "low": "",
+  "remarks": "ATH",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 529.95,
+      "close": 538.95,
+      "price": 527.1,
+      "percentage": 0.39,
+      "max": 527.1,
+      "min": 523.45,
+      "position": 16
+    },
+    {
+      "date": "29-07-2024",
+      "price": 538.95,
+      "percentage": 2.79,
+      "max": 554,
+      "min": 538.95,
+      "position": 7,
+      "close": 552.85,
+      "open": 539
+    },
+    {
+      "date": "30-07-2024",
+      "price": 561.3,
+      "percentage": 1.66,
+      "max": 562.5,
+      "min": 547.25,
+      "position": 17,
+      "close": 554.7,
+      "open": 553.8,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 552.7,
+      "percentage": -0.49,
+      "max": 552.7,
+      "min": 552.7,
+      "position": 15,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 558.7,
+      "min": 551,
+      "close": 554.95,
+      "open": 555.25,
+      "price": 554.95,
+      "volume": 4555302,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 499.25,
+      "highPriceRange": 610.15,
+      "totalBuyQty": 578400,
+      "totalSellQty": 1151046,
+      "dayChange": 0.25,
+      "percentage": 0.045069406886605365,
+      "openInterest": null,
+      "lastTradeQty": 5,
+      "lastTradeTime": 1722414587,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/power-finance-corporation-ltd",
+  "symbol": "PFC"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6b2"
+  },
+  "company": "GAIL (India)",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 227.81,
+      "percentage": 2.41,
+      "max": 229.05,
+      "min": 227.75,
+      "position": 9
+    },
+    {
+      "date": "29-07-2024",
+      "price": 231.5,
+      "percentage": 1.3,
+      "max": 233.63,
+      "min": 231.5,
+      "position": 18,
+      "close": 231.87,
+      "open": 231.5
+    },
+    {
+      "date": "30-07-2024",
+      "price": 233.26,
+      "percentage": 1.91,
+      "max": 236.4,
+      "min": 231.9,
+      "position": 12,
+      "close": 233.75,
+      "open": 233.7,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 243.94,
+      "percentage": 5.07,
+      "max": 246.3,
+      "min": 239.99,
+      "position": 1,
+      "close": 244.99,
+      "open": 241,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 246.3,
+      "min": 238.9,
+      "close": 239.2,
+      "open": 241,
+      "price": 239.2,
+      "volume": 70166846,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 210.37,
+      "highPriceRange": 257.12,
+      "totalBuyQty": 2261470,
+      "totalSellQty": 6432533,
+      "dayChange": 5.449999999999989,
+      "percentage": 2.3315508021390325,
+      "openInterest": null,
+      "lastTradeQty": 5,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/gail-india-ltd",
+  "symbol": "GAIL"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6b3"
+  },
+  "company": "Marico",
+  "high": "",
+  "low": "",
+  "remarks": "500, 800",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 660,
+      "percentage": -1.87,
+      "max": 660,
+      "min": 660,
+      "position": 14
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 668.6,
+      "percentage": -3.12,
+      "max": 678.5,
+      "min": 668.5,
+      "position": 7
+    },
+    {
+      "date": "26-07-2024",
+      "open": 675.8,
+      "close": 679.75,
+      "price": 674.15,
+      "percentage": -0.13,
+      "max": 674.15,
+      "min": 674.15,
+      "position": 18
+    },
+    {
+      "date": "29-07-2024",
+      "price": 676.85,
+      "percentage": -0.43,
+      "max": 676.85,
+      "min": 676.85,
+      "position": 20,
+      "close": 683.05,
+      "open": 679.5
+    },
+    {
+      "date": "30-07-2024",
+      "price": 678.2,
+      "percentage": -0.81,
+      "max": 691,
+      "min": 673.1,
+      "position": 15,
+      "close": 681,
+      "open": 683.05,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 679,
+      "percentage": -1.44,
+      "max": 679,
+      "min": 679,
+      "position": 1,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 683.9,
+      "min": 670.8,
+      "close": 676.4,
+      "open": 681.75,
+      "price": 676.4,
+      "volume": 1004386,
+      "tsInMillis": 1722414585,
+      "lowPriceRange": 612.9,
+      "highPriceRange": 749.1,
+      "totalBuyQty": 220465,
+      "totalSellQty": 244941,
+      "dayChange": -4.600000000000023,
+      "percentage": -0.6754772393538947,
+      "openInterest": null,
+      "lastTradeQty": 10,
+      "lastTradeTime": 1722414585,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/marico-ltd",
+  "symbol": "MARICO"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6b5"
+  },
+  "company": "Bharti Airtel",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 1450.25,
+      "close": 1514.4,
+      "price": 1479.55,
+      "percentage": -4.84,
+      "max": 1519.35,
+      "min": 1479.55,
+      "position": 1
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1502.8,
+      "percentage": -2.28,
+      "max": 1502.9,
+      "min": 1479.9,
+      "position": 1,
+      "urlFrom": "losers",
+      "close": 1481.35,
+      "open": 1525
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1470.5,
+      "percentage": -1.1,
+      "max": 1484.9,
+      "min": 1464.05,
+      "position": 10,
+      "close": 1470.35,
+      "open": 1484.4,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 1485.95,
+      "percentage": 1.87,
+      "max": 1487.95,
+      "min": 1473.15,
+      "position": 11,
+      "close": 1485.95,
+      "open": 1477.85,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 1497,
+      "min": 1473.15,
+      "close": 1494.85,
+      "open": 1477.85,
+      "price": 1494.85,
+      "volume": 2866398,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 1323.35,
+      "highPriceRange": 1617.35,
+      "totalBuyQty": 3494471,
+      "totalSellQty": 376442,
+      "dayChange": 24.5,
+      "percentage": 1.6662699357295883,
+      "openInterest": null,
+      "lastTradeQty": 3,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/bharti-airtel-ltd",
+  "symbol": "BHARTIARTL"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6b6"
+  },
+  "company": "Tech Mahindra",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1522.45,
+      "percentage": 1.95,
+      "max": 1522.45,
+      "min": 1522.45,
+      "position": 10
+    },
+    {
+      "date": "26-07-2024",
+      "open": 1530,
+      "close": 1541.15,
+      "price": 1490.2,
+      "percentage": -2.6,
+      "max": 1513.6,
+      "min": 1490.2,
+      "position": 1
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1530.4,
+      "percentage": -1.94,
+      "max": 1532,
+      "min": 1511.25,
+      "position": 3,
+      "urlFrom": "losers",
+      "close": 1525.35,
+      "open": 1545.65
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1549.7,
+      "percentage": 1.6,
+      "max": 1551.95,
+      "min": 1520,
+      "position": 16,
+      "close": 1538.05,
+      "open": 1520,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 1544.65,
+      "percentage": 1.49,
+      "max": 1548.95,
+      "min": 1535,
+      "position": 11,
+      "close": 1545.4,
+      "open": 1538,
+      "urlFrom": "gainers"
+    }
+  ],
+  "link": "https://groww.in/stocks/tech-mahindra-ltd",
+  "symbol": "TECHM"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6b7"
+  },
+  "company": "Adani Power",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 700,
+      "close": 712.65,
+      "price": 714.25,
+      "percentage": 3.86,
+      "max": 722,
+      "min": 714.25,
+      "position": 8
+    },
+    {
+      "date": "29-07-2024",
+      "price": 712.65,
+      "percentage": 1.47,
+      "max": 723.15,
+      "min": 712.65,
+      "position": 11,
+      "close": 716.4,
+      "open": 719
+    },
+    {
+      "date": "30-07-2024",
+      "price": 726.25,
+      "percentage": 2.53,
+      "max": 735,
+      "min": 716.4,
+      "position": 8,
+      "close": 729.25,
+      "open": 720,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 735.95,
+      "percentage": -1.67,
+      "max": 744,
+      "min": 731.05,
+      "position": 1,
+      "close": 736,
+      "open": 735.5,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 744,
+      "min": 731.05,
+      "close": 739,
+      "open": 735.5,
+      "price": 739,
+      "volume": 5054932,
+      "tsInMillis": 1722414589,
+      "lowPriceRange": 583.4,
+      "highPriceRange": 875.1,
+      "totalBuyQty": 317767,
+      "totalSellQty": 1566673,
+      "dayChange": 9.75,
+      "percentage": 1.336990058279054,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414586,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/adani-power-ltd",
+  "symbol": "ADANIPOWER"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6b9"
+  },
+  "company": "LTIMindtree",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 5609,
+      "percentage": -1.65,
+      "max": 5609,
+      "min": 5571.7,
+      "position": 13
+    },
+    {
+      "date": "26-07-2024",
+      "open": 5599.85,
+      "close": 5788.45,
+      "price": 5723.9,
+      "percentage": -3.65,
+      "max": 5801.95,
+      "min": 5723.9,
+      "position": 4
+    },
+    {
+      "date": "29-07-2024",
+      "price": 5788.45,
+      "percentage": -0.63,
+      "max": 5788.45,
+      "min": 5751.7,
+      "position": 15,
+      "close": 5786.6,
+      "open": 5811.95
+    },
+    {
+      "date": "30-07-2024",
+      "price": 5697.45,
+      "percentage": -1.93,
+      "max": 5797,
+      "min": 5651.35,
+      "position": 5,
+      "close": 5672.5,
+      "open": 5786.6,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 5660.65,
+      "percentage": -0.59,
+      "max": 5660.65,
+      "min": 5660.65,
+      "position": 10,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 5709.4,
+      "min": 5636.5,
+      "close": 5669.95,
+      "open": 5665,
+      "price": 5669.95,
+      "volume": 335834,
+      "tsInMillis": 1722414589,
+      "lowPriceRange": 5105.25,
+      "highPriceRange": 6239.75,
+      "totalBuyQty": 34378,
+      "totalSellQty": 46526,
+      "dayChange": -2.550000000000182,
+      "percentage": -0.04495372410753957,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/larsen-toubro-infotech-ltd",
+  "symbol": "LTIM"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6ba"
+  },
+  "company": "Info Edge (India)",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "29-07-2024",
+      "price": 7128.8,
+      "percentage": -1.24,
+      "max": 7158.45,
+      "min": 7086.7,
+      "position": 8,
+      "urlFrom": "losers",
+      "close": 7097.95,
+      "open": 7244.95
+    },
+    {
+      "date": "30-07-2024",
+      "price": 7051.6,
+      "percentage": -1.52,
+      "max": 7136.6,
+      "min": 6988.95,
+      "position": 8,
+      "close": 7009.8,
+      "open": 7108.95,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 7097.4,
+      "percentage": 1.27,
+      "max": 7097.4,
+      "min": 7097.4,
+      "position": 14,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 7107.55,
+      "min": 7020,
+      "close": 7080,
+      "open": 7029,
+      "price": 7080,
+      "volume": 128933,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 6308.85,
+      "highPriceRange": 7710.75,
+      "totalBuyQty": 21537,
+      "totalSellQty": 22644,
+      "dayChange": 70.19999999999982,
+      "percentage": 1.0014551057091474,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/info-edge-india-ltd",
+  "symbol": "NAUKRI"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6bb"
+  },
+  "company": "SBI Cards & Payment Services",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 732,
+      "percentage": -2.31,
+      "max": 733.6,
+      "min": 726.45,
+      "position": 5
+    },
+    {
+      "date": "26-07-2024",
+      "open": 730.4,
+      "close": 721.7,
+      "price": 725.35,
+      "percentage": -1.58,
+      "max": 727.05,
+      "min": 718.95,
+      "position": 2
+    },
+    {
+      "date": "29-07-2024",
+      "price": 721.7,
+      "percentage": -2.41,
+      "max": 721.7,
+      "min": 704.3,
+      "position": 1,
+      "close": 707.9,
+      "open": 703,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "30-07-2024",
+      "price": 714.55,
+      "percentage": 2.33,
+      "max": 724.95,
+      "min": 708.1,
+      "position": 9,
+      "close": 719,
+      "open": 712,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 727.75,
+      "min": 719.1,
+      "close": 725,
+      "open": 722.45,
+      "price": 725,
+      "volume": 1227080,
+      "tsInMillis": 1722414586,
+      "lowPriceRange": 647.1,
+      "highPriceRange": 790.9,
+      "totalBuyQty": 220176,
+      "totalSellQty": 346938,
+      "dayChange": 6,
+      "percentage": 0.8344923504867872,
+      "openInterest": null,
+      "lastTradeQty": 6,
+      "lastTradeTime": 1722414586,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/sbi-cards-payment-services-ltd",
+  "symbol": "SBICARD"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6be"
+  },
+  "company": "Zydus Lifesciences",
+  "high": "",
+  "low": "",
+  "remarks": "ATH - 1251",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1169.85,
+      "percentage": 1.83,
+      "max": 1169.85,
+      "min": 1169.85,
+      "position": 12
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1188.7,
+      "percentage": 2.35,
+      "max": 1207.15,
+      "min": 1187.25,
+      "position": 10
+    },
+    {
+      "date": "26-07-2024",
+      "open": 1212,
+      "close": 1206.05,
+      "price": 1199.6,
+      "percentage": 0.51,
+      "max": 1205.05,
+      "min": 1199.6,
+      "position": 7
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1206.05,
+      "percentage": 3.7,
+      "max": 1250.65,
+      "min": 1206.05,
+      "position": 3,
+      "close": 1235.9,
+      "open": 1227,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1223.5,
+      "percentage": -1.57,
+      "max": 1244.95,
+      "min": 1215,
+      "position": 4,
+      "close": 1219.4,
+      "open": 1235.9,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 1240.1,
+      "percentage": 2.51,
+      "max": 1245.8,
+      "min": 1225,
+      "position": 3,
+      "close": 1240.05,
+      "open": 1225,
+      "urlFrom": "gainers"
+    }
+  ],
+  "link": "https://groww.in/stocks/cadila-healthcare-ltd",
+  "symbol": "ZYDUSLIFE"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6c0"
+  },
+  "company": "Adani Ports & Special Economic Zone",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 1495.9,
+      "close": 1542.75,
+      "price": 1542.75,
+      "percentage": 4.01,
+      "max": 1546.7,
+      "min": 1537.7,
+      "position": 6
+    },
+    {
+      "date": "31-07-2024",
+      "price": 1566.55,
+      "percentage": 1.92,
+      "max": 1566.55,
+      "min": 1566.55,
+      "position": 8,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 1577.9,
+      "min": 1547,
+      "close": 1572.4,
+      "open": 1557,
+      "price": 1572.4,
+      "volume": 1950898,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 1391.65,
+      "highPriceRange": 1700.85,
+      "totalBuyQty": 256748,
+      "totalSellQty": 408196,
+      "dayChange": 26.15000000000009,
+      "percentage": 1.6911883589329082,
+      "openInterest": null,
+      "lastTradeQty": 3,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/adani-ports-and-special-economic-zone-ltd",
+  "symbol": "ADANIPORTS"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6c1"
+  },
+  "company": "Godrej Consumer Products",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1463.15,
+      "percentage": -3.53,
+      "max": 1463.15,
+      "min": 1463.15,
+      "position": 1
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1482.25,
+      "percentage": -1.59,
+      "max": 1482.25,
+      "min": 1482.25,
+      "position": 20
+    },
+    {
+      "date": "26-07-2024",
+      "open": 1480.1,
+      "close": 1467.5,
+      "price": 1473.8,
+      "percentage": -1.21,
+      "max": 1475,
+      "min": 1462.2,
+      "position": 3
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1442.8,
+      "percentage": 2.4,
+      "max": 1496.9,
+      "min": 1432.35,
+      "position": 3,
+      "urlFrom": "losers",
+      "close": 1477.9,
+      "open": 1474.9
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1453,
+      "percentage": -2.68,
+      "max": 1477.9,
+      "min": 1437.25,
+      "position": 1,
+      "close": 1439.8,
+      "open": 1477,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 1452.45,
+      "min": 1433.7,
+      "close": 1444.8,
+      "open": 1448,
+      "price": 1444.8,
+      "volume": 376499,
+      "tsInMillis": 1722414589,
+      "lowPriceRange": 1295.85,
+      "highPriceRange": 1583.75,
+      "totalBuyQty": 94154,
+      "totalSellQty": 106694,
+      "dayChange": 5,
+      "percentage": 0.34727045422975417,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/godrej-consumer-products-ltd",
+  "symbol": "GODREJCP"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6c2"
+  },
+  "company": "HDFC Life Insurance Company",
+  "high": "",
+  "low": "",
+  "remarks": "Check ",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 664,
+      "percentage": -3.11,
+      "max": 664,
+      "min": 664,
+      "position": 4
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 679.4,
+      "percentage": -1.72,
+      "max": 684.4,
+      "min": 678.25,
+      "position": 15
+    },
+    {
+      "date": "26-07-2024",
+      "open": 683.15,
+      "close": 703.35,
+      "price": 705.25,
+      "percentage": -3.53,
+      "max": 707.25,
+      "min": 703.2,
+      "position": 10
+    },
+    {
+      "date": "29-07-2024",
+      "price": 698.5,
+      "percentage": -1.25,
+      "max": 701,
+      "min": 694.55,
+      "position": 8,
+      "close": 696.85,
+      "open": 703.55
+    },
+    {
+      "date": "30-07-2024",
+      "price": 686.45,
+      "percentage": 1.51,
+      "max": 708.35,
+      "min": 683.9,
+      "position": 6,
+      "close": 697.2,
+      "open": 696.1,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 706.1,
+      "percentage": 3.12,
+      "max": 706.1,
+      "min": 706.1,
+      "position": 1,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 717.5,
+      "min": 693.1,
+      "close": 716.1,
+      "open": 697.2,
+      "price": 716.1,
+      "volume": 4460875,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 627.5,
+      "highPriceRange": 766.9,
+      "totalBuyQty": 407413,
+      "totalSellQty": 536968,
+      "dayChange": 18.899999999999977,
+      "percentage": 2.7108433734939723,
+      "openInterest": null,
+      "lastTradeQty": 5,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/hdfc-standard-life-insurance-co-ltd",
+  "symbol": "HDFCLIFE"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6c3"
+  },
+  "company": "ICICI Prudential Life Insurance Company",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 687.7,
+      "percentage": -7.72,
+      "max": 687.7,
+      "min": 687.5,
+      "position": 1
+    },
+    {
+      "date": "26-07-2024",
+      "open": 702.8,
+      "close": 724.9,
+      "price": 714.5,
+      "percentage": -4.02,
+      "max": 729.9,
+      "min": 713.9,
+      "position": 6
+    },
+    {
+      "date": "29-07-2024",
+      "price": 724.9,
+      "percentage": -1.14,
+      "max": 724.9,
+      "min": 716.6,
+      "position": 8,
+      "close": 719.05,
+      "open": 724.9,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "30-07-2024",
+      "price": 714.3,
+      "percentage": 1.81,
+      "max": 733.35,
+      "min": 698.05,
+      "position": 14,
+      "close": 723.85,
+      "open": 722.8,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 731.5,
+      "percentage": 2.09,
+      "max": 731.5,
+      "min": 731.5,
+      "position": 9,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 737,
+      "min": 719.55,
+      "close": 737,
+      "open": 723.85,
+      "price": 737,
+      "volume": 591540,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 651.5,
+      "highPriceRange": 796.2,
+      "totalBuyQty": 213251,
+      "totalSellQty": 195032,
+      "dayChange": 13.149999999999977,
+      "percentage": 1.8166747254265356,
+      "openInterest": null,
+      "lastTradeQty": 5,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/icici-prudential-life-insurance-company-ltd",
+  "symbol": "ICICIPRULI"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6c4"
+  },
+  "company": "SBI Life Insurance Company",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1627.65,
+      "percentage": -2.06,
+      "max": 1627.65,
+      "min": 1627.65,
+      "position": 13
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1672,
+      "percentage": -4.03,
+      "max": 1698.8,
+      "min": 1672,
+      "position": 4
+    },
+    {
+      "date": "26-07-2024",
+      "open": 1686.25,
+      "close": 1750.95,
+      "price": 1690.1,
+      "percentage": -4.11,
+      "max": 1765,
+      "min": 1690.1,
+      "position": 6
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1740.7,
+      "percentage": -0.67,
+      "max": 1743.2,
+      "min": 1737,
+      "position": 14,
+      "close": 1746.7,
+      "open": 1752.5
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1711.4,
+      "percentage": -2.02,
+      "max": 1746.3,
+      "min": 1708,
+      "position": 1,
+      "close": 1721.05,
+      "open": 1740.5,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 1742.6,
+      "percentage": 2.26,
+      "max": 1742.6,
+      "min": 1742.6,
+      "position": 6,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 1760,
+      "min": 1720,
+      "close": 1759.65,
+      "open": 1721.05,
+      "price": 1759.65,
+      "volume": 632063,
+      "tsInMillis": 1722414589,
+      "lowPriceRange": 1548.95,
+      "highPriceRange": 1893.15,
+      "totalBuyQty": 107788,
+      "totalSellQty": 81454,
+      "dayChange": 38.600000000000136,
+      "percentage": 2.2428168850411168,
+      "openInterest": null,
+      "lastTradeQty": 8,
+      "lastTradeTime": 1722414589,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/sbi-life-insurance-company-ltd",
+  "symbol": "SBILIFE"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6c5"
+  },
+  "company": "ICICI Lombard General Insurance Company",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1905,
+      "percentage": 1.31,
+      "max": 1905,
+      "min": 1905,
+      "position": 17
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1926.25,
+      "percentage": 2.66,
+      "max": 1960.4,
+      "min": 1926.25,
+      "position": 9
+    },
+    {
+      "date": "26-07-2024",
+      "open": 1958,
+      "close": 1967.3,
+      "price": 1960.05,
+      "percentage": 0.35,
+      "max": 1960.05,
+      "min": 1953.7,
+      "position": 10
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1967.3,
+      "percentage": 1.77,
+      "max": 2002.05,
+      "min": 1967.3,
+      "position": 12,
+      "close": 1968,
+      "open": 1969
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1934.6,
+      "percentage": 1.74,
+      "max": 2004,
+      "min": 1922.85,
+      "position": 3,
+      "close": 1967.55,
+      "open": 1963.4,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 1991.55,
+      "percentage": 2.56,
+      "max": 1991.55,
+      "min": 1991.55,
+      "position": 8,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 2004,
+      "min": 1959.5,
+      "close": 2004,
+      "open": 1960,
+      "price": 2004,
+      "volume": 567307,
+      "tsInMillis": 1722414585,
+      "lowPriceRange": 1770.8,
+      "highPriceRange": 2164.3,
+      "totalBuyQty": 77127,
+      "totalSellQty": 114829,
+      "dayChange": 36.450000000000045,
+      "percentage": 1.852557749485403,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414584,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/icici-lombard-general-insurance-co-ltd",
+  "symbol": "ICICIGI"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6c6"
+  },
+  "company": "Indian Railway Catering & Tourism Corporation",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 966.1,
+      "percentage": 0.83,
+      "max": 966.1,
+      "min": 966.1,
+      "position": 20
+    },
+    {
+      "date": "29-07-2024",
+      "price": 997.45,
+      "percentage": 1.35,
+      "max": 997.45,
+      "min": 996.6,
+      "position": 19,
+      "close": 991.45,
+      "open": 990
+    },
+    {
+      "date": "23-07-2024",
+      "max": 994.4,
+      "min": 988.8,
+      "close": 990.45,
+      "open": 990,
+      "price": 990.45,
+      "volume": 574772,
+      "tsInMillis": 1722414587,
+      "lowPriceRange": 890.65,
+      "highPriceRange": 1088.55,
+      "totalBuyQty": 347273,
+      "totalSellQty": 438485,
+      "dayChange": 0.8500000000000227,
+      "percentage": 0.0858932902182723,
+      "openInterest": null,
+      "lastTradeQty": 2,
+      "lastTradeTime": 1722414582,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/indian-railway-catering-tourism-corpn-ltd",
+  "symbol": "IRCTC"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6c7"
+  },
+  "company": "Varun Beverages",
+  "high": "",
+  "low": "",
+  "remarks": "1550, 1700",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1640.1,
+      "percentage": 2.61,
+      "max": 1654.1,
+      "min": 1639.05,
+      "position": 10
+    },
+    {
+      "date": "26-07-2024",
+      "open": 1666.1,
+      "close": 1676.65,
+      "price": 1666.1,
+      "percentage": 0.85,
+      "max": 1666.1,
+      "min": 1666.1,
+      "position": 19
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1676.65,
+      "percentage": 0,
+      "max": 1676.65,
+      "min": 1676.65,
+      "position": 11,
+      "close": 1685.3,
+      "open": 1698
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1677.2,
+      "percentage": -6.84,
+      "max": 1699.8,
+      "min": 1566.75,
+      "position": 1,
+      "close": 1577.4,
+      "open": 1695.1,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 1615.65,
+      "percentage": 2.42,
+      "max": 1619.95,
+      "min": 1582,
+      "position": 7,
+      "close": 1614,
+      "open": 1599,
+      "urlFrom": "gainers"
+    }
+  ],
+  "link": "https://groww.in/stocks/varun-beverages-ltd",
+  "symbol": "VBL"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6c8"
+  },
+  "company": "UltraTech Cement",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "29-07-2024",
+      "price": 11815.25,
+      "percentage": 2.29,
+      "max": 11940,
+      "min": 11810,
+      "position": 15,
+      "urlFrom": "gainers",
+      "close": 11873.8,
+      "open": 11680
+    },
+    {
+      "date": "30-07-2024",
+      "price": 11663.7,
+      "percentage": -1.22,
+      "max": 11858,
+      "min": 11644.5,
+      "position": 4,
+      "close": 11806.45,
+      "open": 11858,
+      "urlFrom": "losers"
+    }
+  ],
+  "link": "https://groww.in/stocks/ultratech-cement-ltd",
+  "symbol": "ULTRACEMCO"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6c9"
+  },
+  "company": "Bajaj Auto",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "",
+  "records": [
+    {
+      "date": "23-07-2024",
+      "max": 9678.85,
+      "min": 9580.05,
+      "close": 9674.4,
+      "open": 9600,
+      "price": 9674.4,
+      "volume": 223432,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 8607.95,
+      "highPriceRange": 10520.75,
+      "totalBuyQty": 25758,
+      "totalSellQty": 36145,
+      "dayChange": 110.04999999999927,
+      "percentage": 1.1506270682273156,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "symbol": "BAJAJ-AUTO",
+  "link": "https://groww.in/stocks/bajaj-auto-ltd"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6ca"
+  },
+  "company": "Bajaj Finserv",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1584.4,
+      "percentage": 2.13,
+      "max": 1584.4,
+      "min": 1584.4,
+      "position": 8
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1610,
+      "percentage": 2.11,
+      "max": 1619.9,
+      "min": 1610,
+      "position": 16,
+      "close": 1617.15,
+      "open": 1588.15
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1635,
+      "percentage": 3.16,
+      "max": 1669.9,
+      "min": 1595.2,
+      "position": 7,
+      "close": 1642.65,
+      "open": 1614,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 1656.25,
+      "min": 1637.65,
+      "close": 1650.1,
+      "open": 1650.9,
+      "price": 1650.1,
+      "volume": 750832,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 1478.4,
+      "highPriceRange": 1806.9,
+      "totalBuyQty": 166492,
+      "totalSellQty": 267254,
+      "dayChange": 7.449999999999818,
+      "percentage": 0.4535354457735864,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/bajaj-finserv-ltd",
+  "symbol": "BAJAJFINSV"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6cb"
+  },
+  "company": "Interglobe Aviation",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 4419.3,
+      "percentage": -0.99,
+      "max": 4419.3,
+      "min": 4419.3,
+      "position": 19
+    },
+    {
+      "date": "29-07-2024",
+      "price": 4493.4,
+      "percentage": -2.46,
+      "max": 4493.4,
+      "min": 4383.05,
+      "position": 1,
+      "close": 4439.3,
+      "open": 4478,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "30-07-2024",
+      "price": 4484.8,
+      "percentage": 1.77,
+      "max": 4527.85,
+      "min": 4430.05,
+      "position": 12,
+      "close": 4474,
+      "open": 4487,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 4455,
+      "percentage": -0.42,
+      "max": 4455,
+      "min": 4455,
+      "position": 16,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 4512,
+      "min": 4450.55,
+      "close": 4491.8,
+      "open": 4473.95,
+      "price": 4491.8,
+      "volume": 538864,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 4026.6,
+      "highPriceRange": 4921.4,
+      "totalBuyQty": 50491,
+      "totalSellQty": 94746,
+      "dayChange": 17.800000000000182,
+      "percentage": 0.3978542691104198,
+      "openInterest": null,
+      "lastTradeQty": 1,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/interglobe-aviation-ltd",
+  "symbol": "INDIGO"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6cd"
+  },
+  "company": "Adani Total Gas",
+  "high": "",
+  "low": "",
+  "remarks": "925, 4k",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 892.6,
+      "percentage": 1.53,
+      "max": 892.6,
+      "min": 892.6,
+      "position": 19
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 882.9,
+      "percentage": 1.33,
+      "max": 882.9,
+      "min": 878.65,
+      "position": 17
+    },
+    {
+      "date": "29-07-2024",
+      "price": 888.45,
+      "percentage": 3.52,
+      "max": 919.75,
+      "min": 888.45,
+      "position": 4,
+      "close": 892.95,
+      "open": 900
+    },
+    {
+      "date": "30-07-2024",
+      "price": 902.7,
+      "percentage": 1.09,
+      "max": 906.9,
+      "min": 892,
+      "position": 20,
+      "close": 896.4,
+      "open": 900,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 909.5,
+      "min": 897.05,
+      "close": 899.1,
+      "open": 898.4,
+      "price": 899.1,
+      "volume": 742966,
+      "tsInMillis": 1722414587,
+      "lowPriceRange": 717.15,
+      "highPriceRange": 1075.65,
+      "totalBuyQty": 87824,
+      "totalSellQty": 552910,
+      "dayChange": 2.7000000000000455,
+      "percentage": 0.3012048192771135,
+      "openInterest": null,
+      "lastTradeQty": 27,
+      "lastTradeTime": 1722414587,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    },
+    {
+      "date": "31-07-2024",
+      "price": 893.5,
+      "percentage": -0.32,
+      "max": 893.5,
+      "min": 893.5,
+      "position": 20,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    }
+  ],
+  "link": "https://groww.in/stocks/adani-gas-ltd",
+  "symbol": "ATGL"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6ce"
+  },
+  "company": "Avenue Supermarts",
+  "high": "",
+  "low": "",
+  "remarks": "4500, 6000",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 5143.65,
+      "percentage": -1.55,
+      "max": 5143.65,
+      "min": 5143.65,
+      "position": 16
+    },
+    {
+      "date": "26-07-2024",
+      "open": 5199,
+      "close": 5071.6,
+      "price": 5157,
+      "percentage": -2.54,
+      "max": 5169.95,
+      "min": 5040.1,
+      "position": 1
+    },
+    {
+      "date": "29-07-2024",
+      "price": 5071.6,
+      "percentage": -0.42,
+      "max": 5071.6,
+      "min": 5050.05,
+      "position": 8,
+      "close": 5112.85,
+      "open": 5144
+    },
+    {
+      "date": "30-07-2024",
+      "price": 5076,
+      "percentage": -1.62,
+      "max": 5175.55,
+      "min": 5000.1,
+      "position": 4,
+      "close": 5027.2,
+      "open": 5140,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 5011.15,
+      "percentage": -2.18,
+      "max": 5011.15,
+      "min": 5011.15,
+      "position": 1,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 5068.9,
+      "min": 4941,
+      "close": 4942.85,
+      "open": 5040,
+      "price": 4942.85,
+      "volume": 500302,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 4021.8,
+      "highPriceRange": 6032.6,
+      "totalBuyQty": 18211,
+      "totalSellQty": 47806,
+      "dayChange": -84.34999999999945,
+      "percentage": -1.6778723742838848,
+      "openInterest": null,
+      "lastTradeQty": 2,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/avenue-supermarts-ltd",
+  "symbol": "DMART"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6cf"
+  },
+  "company": "Adani Energy Solutions",
+  "high": 4000,
+  "low": 1000,
+  "remarks": "1000,4000 --> long time",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1041.6,
+      "percentage": 1.74,
+      "max": 1041.6,
+      "min": 1041.6,
+      "position": 18
+    },
+    {
+      "date": "26-07-2024",
+      "open": 1063.05,
+      "close": 1051.95,
+      "price": 1064,
+      "percentage": 7.45,
+      "max": 1128.4,
+      "min": 1042,
+      "position": 1
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1051.95,
+      "percentage": 4.55,
+      "max": 1099.85,
+      "min": 1051.95,
+      "position": 3,
+      "urlFrom": "gainers",
+      "close": 1051.95,
+      "open": 1059.15
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1062.8,
+      "percentage": 7.99,
+      "max": 1137,
+      "min": 1054,
+      "position": 1,
+      "close": 1124.9,
+      "open": 1064.9,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 1132,
+      "percentage": 1.76,
+      "max": 1168.8,
+      "min": 1125.25,
+      "position": 8,
+      "close": 1132.5,
+      "open": 1156,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 1168.8,
+      "min": 1125.25,
+      "close": 1131.95,
+      "open": 1156,
+      "price": 1131.95,
+      "volume": 3770847,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 899.95,
+      "highPriceRange": 1349.85,
+      "totalBuyQty": 174397,
+      "totalSellQty": 580711,
+      "dayChange": 7.0499999999999545,
+      "percentage": 0.6267223753222467,
+      "openInterest": null,
+      "lastTradeQty": 3,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/adani-transmission-ltd",
+  "symbol": "ADANIENSOL"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6d0"
+  },
+  "company": "Zomato",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 221.95,
+      "percentage": 1.85,
+      "max": 221.95,
+      "min": 221.95,
+      "position": 20
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 219.95,
+      "percentage": 1.69,
+      "max": 220.28,
+      "min": 219.71,
+      "position": 8
+    },
+    {
+      "date": "26-07-2024",
+      "open": 219,
+      "close": 224.62,
+      "price": 218.47,
+      "percentage": 0.38,
+      "max": 219.07,
+      "min": 218.47,
+      "position": 9
+    },
+    {
+      "date": "29-07-2024",
+      "price": 224.62,
+      "percentage": 1.93,
+      "max": 228.95,
+      "min": 224.62,
+      "position": 3,
+      "close": 226.89,
+      "open": 226.62
+    },
+    {
+      "date": "30-07-2024",
+      "price": 229.27,
+      "percentage": 1.05,
+      "max": 231.2,
+      "min": 225.11,
+      "position": 17,
+      "close": 227.13,
+      "open": 226.95,
+      "urlFrom": "gainers"
+    }
+  ],
+  "link": "https://groww.in/stocks/zomato-ltd",
+  "symbol": "ZOMATO"
+},
+{
+  "_id": {
+    "$oid": "66a0960be62333228a45c6d1"
+  },
+  "company": "Adani Green Energy",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1730.2,
+      "percentage": 1.46,
+      "max": 1741.05,
+      "min": 1730.2,
+      "position": 3
+    },
+    {
+      "date": "26-07-2024",
+      "open": 1887.8,
+      "close": 1803.7,
+      "price": 1880.1,
+      "percentage": 3.27,
+      "max": 1880.1,
+      "min": 1795.85,
+      "position": 1
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1803.7,
+      "percentage": 2.72,
+      "max": 1852.85,
+      "min": 1803.7,
+      "position": 6,
+      "close": 1836.25,
+      "open": 1824.85,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1851.4,
+      "percentage": 1.54,
+      "max": 1876.45,
+      "min": 1824,
+      "position": 15,
+      "close": 1832.4,
+      "open": 1845,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 1827.5,
+      "percentage": 1.56,
+      "max": 1827.5,
+      "min": 1827.5,
+      "position": 15,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 1866,
+      "min": 1811.25,
+      "close": 1859,
+      "open": 1844,
+      "price": 1859,
+      "volume": 8173582,
+      "tsInMillis": 1722414589,
+      "lowPriceRange": 1465.95,
+      "highPriceRange": 2198.85,
+      "totalBuyQty": 84680,
+      "totalSellQty": 237082,
+      "dayChange": 26.59999999999991,
+      "percentage": 1.451648111765985,
+      "openInterest": null,
+      "lastTradeQty": 147,
+      "lastTradeTime": 1722414586,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/adani-green-energy-ltd",
+  "symbol": "ADANIGREEN"
+},
+{
+  "_id": {
+    "$oid": "66a0a4457b96905ba7b6bba9"
+  },
+  "company": "Life Insurance Corporation of India Ltd.",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1126.5,
+      "percentage": -3.67,
+      "max": 1126.5,
+      "min": 1126.5,
+      "position": 3
+    },
+    {
+      "date": "26-07-2024",
+      "open": 1165,
+      "close": 1184.35,
+      "price": 1157.2,
+      "percentage": -0.32,
+      "max": 1160.05,
+      "min": 1157.2,
+      "position": 11
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1182.4,
+      "percentage": -1.52,
+      "max": 1182.4,
+      "min": 1166.3,
+      "position": 4,
+      "urlFrom": "losers",
+      "close": 1173.6,
+      "open": 1194.65
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1167,
+      "percentage": 1.21,
+      "max": 1192.45,
+      "min": 1163.8,
+      "position": 14,
+      "close": 1188.1,
+      "open": 1173.6,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 1175.25,
+      "percentage": -1.46,
+      "max": 1175.25,
+      "min": 1175.25,
+      "position": 2,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 1193.5,
+      "min": 1170.05,
+      "close": 1175.55,
+      "open": 1188.1,
+      "price": 1175.55,
+      "volume": 2063421,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 950.5,
+      "highPriceRange": 1425.7,
+      "totalBuyQty": 173285,
+      "totalSellQty": 570689,
+      "dayChange": -12.549999999999955,
+      "percentage": -1.0563083915495293,
+      "openInterest": null,
+      "lastTradeQty": 10,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/life-insurance-corporation-of-india",
+  "symbol": "LICI"
+},
+{
+  "_id": {
+    "$oid": "66a0a4467b96905ba7b6bbaa"
+  },
+  "company": "Oil & Natural Gas Corporation",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 323.55,
+      "percentage": 2.99,
+      "max": 323.55,
+      "min": 323.55,
+      "position": 5
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 329.75,
+      "percentage": 4.58,
+      "max": 334.2,
+      "min": 328.65,
+      "position": 3
+    },
+    {
+      "date": "26-07-2024",
+      "open": 336.5,
+      "close": 331.6,
+      "price": 332.7,
+      "percentage": 1.58,
+      "max": 333.65,
+      "min": 330.5,
+      "position": 3
+    },
+    {
+      "date": "29-07-2024",
+      "price": 333.8,
+      "percentage": 2.29,
+      "max": 339.2,
+      "min": 333.8,
+      "position": 16,
+      "close": 332.9,
+      "open": 333.8
+    },
+    {
+      "date": "30-07-2024",
+      "price": 335.5,
+      "percentage": 1.28,
+      "max": 338.25,
+      "min": 331,
+      "position": 14,
+      "close": 331.9,
+      "open": 332,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 335.95,
+      "percentage": 1.49,
+      "max": 335.95,
+      "min": 335.95,
+      "position": 12,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 337.45,
+      "min": 329.75,
+      "close": 336.3,
+      "open": 332.05,
+      "price": 336.3,
+      "volume": 15098089,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 298.75,
+      "highPriceRange": 365.05,
+      "totalBuyQty": 1249044,
+      "totalSellQty": 2797693,
+      "dayChange": 4.400000000000034,
+      "percentage": 1.325700512202481,
+      "openInterest": null,
+      "lastTradeQty": 15,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/oil-natural-gas-corporation-ltd",
+  "symbol": "ONGC"
+},
+{
+  "_id": {
+    "$oid": "66a0a4477b96905ba7b6bbab"
+  },
+  "company": "REC Limited",
+  "high": "",
+  "low": "",
+  "remarks": "500, ATH",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 612.9,
+      "percentage": 2.97,
+      "max": 612.9,
+      "min": 612.9,
+      "position": 7
+    },
+    {
+      "date": "26-07-2024",
+      "open": 614.1,
+      "close": 625.9,
+      "price": 611.4,
+      "percentage": 3.2,
+      "max": 627.45,
+      "min": 611.4,
+      "position": 9
+    },
+    {
+      "date": "29-07-2024",
+      "price": 625.9,
+      "percentage": 3.22,
+      "max": 646.05,
+      "min": 625.9,
+      "position": 2,
+      "close": 644.6,
+      "open": 620,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "30-07-2024",
+      "price": 636.5,
+      "percentage": -1.28,
+      "max": 650.6,
+      "min": 633.35,
+      "position": 7,
+      "close": 642.2,
+      "open": 643,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 648.25,
+      "min": 640.55,
+      "close": 644.65,
+      "open": 641.95,
+      "price": 644.65,
+      "volume": 4798829,
+      "tsInMillis": 1722414587,
+      "lowPriceRange": 578,
+      "highPriceRange": 706.4,
+      "totalBuyQty": 634768,
+      "totalSellQty": 1218974,
+      "dayChange": 2.449999999999932,
+      "percentage": 0.3815010900031036,
+      "openInterest": null,
+      "lastTradeQty": 47,
+      "lastTradeTime": 1722414587,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/rec-ltd",
+  "symbol": "RECLTD"
+},
+{
+  "_id": {
+    "$oid": "66a0a4487b96905ba7b6bbac"
+  },
+  "company": "Tata Motors - DVR Ordinary",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 699.9,
+      "percentage": 2.21,
+      "max": 699.9,
+      "min": 699.9,
+      "position": 9
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 739.65,
+      "percentage": 6.66,
+      "max": 748.9,
+      "min": 738.9,
+      "position": 1
+    },
+    {
+      "date": "26-07-2024",
+      "open": 757.1,
+      "close": 765,
+      "price": 751.35,
+      "percentage": 0.86,
+      "max": 751.35,
+      "min": 740.85,
+      "position": 4
+    },
+    {
+      "date": "29-07-2024",
+      "price": 768.1,
+      "percentage": 2.27,
+      "max": 782.35,
+      "min": 768.1,
+      "position": 6,
+      "close": 768.45,
+      "open": 768.1
+    },
+    {
+      "date": "30-07-2024",
+      "price": 787.35,
+      "percentage": 4.56,
+      "max": 803.5,
+      "min": 787.35,
+      "position": 3,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 789.75,
+      "percentage": -0.53,
+      "max": 789.75,
+      "min": 789.75,
+      "position": 11,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    }
+  ],
+  "link": "https://groww.in/stocks/tata-motors-dvr-ordinary",
+  "symbol": "TATAMTRDVR"
+},
+{
+  "_id": {
+    "$oid": "66a0a44b7b96905ba7b6bbad"
+  },
+  "company": "Jindal Steel & Power",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 969.8,
+      "percentage": -1.78,
+      "max": 969.8,
+      "min": 969.8,
+      "position": 15
+    },
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 932.2,
+      "percentage": -4.33,
+      "max": 935.6,
+      "min": 930.3,
+      "position": 2
+    },
+    {
+      "date": "26-07-2024",
+      "open": 947.2,
+      "close": 972.35,
+      "price": 946.8,
+      "percentage": -3.81,
+      "max": 973.5,
+      "min": 946.8,
+      "position": 2
+    },
+    {
+      "date": "29-07-2024",
+      "price": 970.75,
+      "percentage": 0.79,
+      "max": 970.75,
+      "min": 964.7,
+      "position": 10,
+      "close": 966.9,
+      "open": 979.5
+    },
+    {
+      "date": "30-07-2024",
+      "price": 976.3,
+      "percentage": 0.97,
+      "max": 981.65,
+      "min": 956.1,
+      "position": 20,
+      "close": 976.5,
+      "open": 966.9,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 990.95,
+      "min": 980.15,
+      "close": 987.7,
+      "open": 990,
+      "price": 987.7,
+      "volume": 583355,
+      "tsInMillis": 1722414587,
+      "lowPriceRange": 878.85,
+      "highPriceRange": 1074.15,
+      "totalBuyQty": 165135,
+      "totalSellQty": 235815,
+      "dayChange": 11.200000000000045,
+      "percentage": 1.1469534050179258,
+      "openInterest": null,
+      "lastTradeQty": 76,
+      "lastTradeTime": 1722414587,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/jindal-steel-power-ltd",
+  "symbol": "JINDALSTEL"
+},
+{
+  "_id": {
+    "$oid": "66a0a4557b96905ba7b6bbae"
+  },
+  "company": "Mahindra & Mahindra",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "24-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 2774,
+      "percentage": -1.68,
+      "max": 2774,
+      "min": 2774,
+      "position": 10
+    },
+    {
+      "date": "29-07-2024",
+      "price": 2882.4,
+      "percentage": 1.82,
+      "max": 2940.3,
+      "min": 2882.4,
+      "position": 19,
+      "close": 2933,
+      "open": 2900
+    },
+    {
+      "date": "30-07-2024",
+      "price": 2912.75,
+      "percentage": -0.69,
+      "max": 2950,
+      "min": 2904.6,
+      "position": 14,
+      "close": 2922.1,
+      "open": 2945,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 2962.05,
+      "percentage": -0.8,
+      "max": 2962.05,
+      "min": 2962.05,
+      "position": 9,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 2979.6,
+      "min": 2872.95,
+      "close": 2932.55,
+      "open": 2937,
+      "price": 2932.55,
+      "volume": 2858152,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 2629.9,
+      "highPriceRange": 3214.3,
+      "totalBuyQty": 95190,
+      "totalSellQty": 196209,
+      "dayChange": 10.450000000000273,
+      "percentage": 0.3576195202080789,
+      "openInterest": null,
+      "lastTradeQty": 20,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/mahindra-mahindra-ltd",
+  "symbol": "M&M"
+},
+{
+  "_id": {
+    "$oid": "66a1fdc83beac358fa762d48"
+  },
+  "company": "Indian Railway Finance Corp",
+  "high": "",
+  "low": "",
+  "remarks": "184, 220",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 184.71,
+      "percentage": 4.15,
+      "max": 184.74,
+      "min": 184.3,
+      "position": 2
+    },
+    {
+      "date": "26-07-2024",
+      "open": 184.75,
+      "close": 183.44,
+      "price": 186.77,
+      "percentage": 1.75,
+      "max": 186.77,
+      "min": 183.14,
+      "position": 8
+    },
+    {
+      "date": "29-07-2024",
+      "price": 183.44,
+      "percentage": 7.27,
+      "max": 196.77,
+      "min": 183.44,
+      "position": 1,
+      "close": 195.27,
+      "open": 185.92,
+      "urlFrom": "gainers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 194.1,
+      "percentage": -0.95,
+      "max": 194.1,
+      "min": 194.1,
+      "position": 5,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 196.35,
+      "min": 193.2,
+      "close": 193.9,
+      "open": 195.84,
+      "price": 193.9,
+      "volume": 21645012,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 156.36,
+      "highPriceRange": 234.55,
+      "totalBuyQty": 2561144,
+      "totalSellQty": 7753541,
+      "dayChange": -1.5600000000000023,
+      "percentage": -0.7981172618438566,
+      "openInterest": null,
+      "lastTradeQty": 13,
+      "lastTradeTime": 1722414588,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/indian-railway-finance-corporation-ltd",
+  "symbol": "IRFC"
+},
+{
+  "_id": {
+    "$oid": "66a1fdcf3beac358fa762d49"
+  },
+  "company": "JIO Financial Services",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 330.1,
+      "percentage": -1.57,
+      "max": 330.45,
+      "min": 329.45,
+      "position": 13
+    },
+    {
+      "date": "26-07-2024",
+      "open": 329.85,
+      "close": 331.9,
+      "price": 334.6,
+      "percentage": -1.64,
+      "max": 334.6,
+      "min": 334.6,
+      "position": 14
+    },
+    {
+      "date": "29-07-2024",
+      "price": 330,
+      "percentage": -0.63,
+      "max": 330.3,
+      "min": 329.8,
+      "position": 19,
+      "close": 330.2,
+      "open": 334.5
+    },
+    {
+      "date": "31-07-2024",
+      "price": 329.1,
+      "percentage": -0.5,
+      "max": 329.1,
+      "min": 329.1,
+      "position": 13,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 331.25,
+      "min": 327.5,
+      "close": 329,
+      "open": 329.35,
+      "price": 329,
+      "volume": 9004267,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 263.5,
+      "highPriceRange": 395.2,
+      "totalBuyQty": 1586008,
+      "totalSellQty": 2664200,
+      "dayChange": -0.35000000000002274,
+      "percentage": -0.10626992561105897,
+      "openInterest": null,
+      "lastTradeQty": 4,
+      "lastTradeTime": 1722414587,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "link": "https://groww.in/stocks/jio-financial-services-ltd",
+  "symbol": "JIOFIN"
+},
+{
+  "_id": {
+    "$oid": "66a206eb5bd511323ea454cd"
+  },
+  "company": "Sun Pharmaceutical Industries",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "25-07-2024",
+      "open": 0,
+      "close": 0,
+      "price": 1634.8,
+      "percentage": -3.61,
+      "max": 1677.85,
+      "min": 1634.8,
+      "position": 7
+    },
+    {
+      "date": "26-07-2024",
+      "open": 1670.45,
+      "close": 1714.25,
+      "price": 1720.85,
+      "percentage": -3.3,
+      "max": 1720.85,
+      "min": 1720.85,
+      "position": 16
+    },
+    {
+      "date": "29-07-2024",
+      "price": 1706.1,
+      "percentage": -1.13,
+      "max": 1706.1,
+      "min": 1694.8,
+      "position": 10,
+      "close": 1723.25,
+      "open": 1715.25
+    },
+    {
+      "date": "30-07-2024",
+      "price": 1710,
+      "percentage": -1.26,
+      "max": 1725.45,
+      "min": 1697,
+      "position": 13,
+      "close": 1701.6,
+      "open": 1716.1,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 1721.7,
+      "percentage": 1.57,
+      "max": 1721.7,
+      "min": 1721.7,
+      "position": 11,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "gainers"
+    }
+  ],
+  "link": "https://groww.in/stocks/sun-pharmaceutical-industries-ltd",
+  "symbol": "SUNPHARMA"
+},
+{
+  "_id": {
+    "$oid": "66a31f69f9f2a2977b382696"
+  },
+  "company": "Divi's Laboratories",
+  "high": "5000",
+  "low": "4450",
+  "remarks": "5500 ATH, moving great speed",
+  "link": "https://groww.in/stocks/divis-laboratories-ltd",
+  "urlFrom": "gainers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 4570.95,
+      "close": 4790.6,
+      "price": 4599.15,
+      "percentage": 5.46,
+      "max": 4795.05,
+      "min": 4599.15,
+      "position": 2
+    },
+    {
+      "date": "29-07-2024",
+      "price": 4778.5,
+      "percentage": 3.01,
+      "max": 4934.75,
+      "min": 4778.5,
+      "position": 4,
+      "urlFrom": "gainers",
+      "close": 4923.85,
+      "open": 4804
+    },
+    {
+      "date": "31-07-2024",
+      "price": 4885.05,
+      "percentage": -1.93,
+      "max": 4885.05,
+      "min": 4885.05,
+      "position": 1,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 4943.75,
+      "min": 4800.2,
+      "close": 4900,
+      "open": 4904.35,
+      "price": 4900,
+      "volume": 839271,
+      "tsInMillis": 1722414588,
+      "lowPriceRange": 4421.15,
+      "highPriceRange": 5403.55,
+      "totalBuyQty": 41940,
+      "totalSellQty": 41003,
+      "dayChange": -12.350000000000364,
+      "percentage": -0.25140716764889237,
+      "openInterest": null,
+      "lastTradeQty": 2,
+      "lastTradeTime": 1722414587,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "symbol": "DIVISLAB"
+},
+{
+  "_id": {
+    "$oid": "66a356d26de521dba3db5faa"
+  },
+  "company": "Dr Reddy's Laboratories",
+  "high": "",
+  "low": "",
+  "remarks": "",
+  "link": "https://groww.in/stocks/dr-reddys-laboratories-ltd",
+  "urlFrom": "losers",
+  "records": [
+    {
+      "date": "26-07-2024",
+      "open": 6888.95,
+      "close": 6878.65,
+      "price": 6838,
+      "percentage": -0.82,
+      "max": 6844.45,
+      "min": 6797.1,
+      "position": 5
+    },
+    {
+      "date": "29-07-2024",
+      "price": 6769.35,
+      "percentage": -1.64,
+      "max": 6850,
+      "min": 6766,
+      "position": 5,
+      "urlFrom": "losers",
+      "close": 6840.05,
+      "open": 6920
+    },
+    {
+      "date": "30-07-2024",
+      "price": 6798.45,
+      "percentage": -0.61,
+      "max": 6891,
+      "min": 6792.9,
+      "position": 20,
+      "close": 6804.15,
+      "open": 6845.05,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "31-07-2024",
+      "price": 6790.8,
+      "percentage": -0.91,
+      "max": 6790.8,
+      "min": 6790.8,
+      "position": 7,
+      "close": 0,
+      "open": 0,
+      "urlFrom": "losers"
+    },
+    {
+      "date": "23-07-2024",
+      "max": 6829.5,
+      "min": 6765.8,
+      "close": 6793.05,
+      "open": 6803.9,
+      "price": 6793.05,
+      "volume": 146411,
+      "tsInMillis": 1722414584,
+      "lowPriceRange": 6123.75,
+      "highPriceRange": 7484.55,
+      "totalBuyQty": 32135,
+      "totalSellQty": 33217,
+      "dayChange": -11.099999999999454,
+      "percentage": -0.1631357333392041,
+      "openInterest": null,
+      "lastTradeQty": 2,
+      "lastTradeTime": 1722414583,
+      "prevOpenInterest": null,
+      "oiDayChange": 0,
+      "oiDayChangePerc": 0,
+      "lowTradeRange": null,
+      "highTradeRange": null
+    }
+  ],
+  "symbol": "DRREDDY"
+}]

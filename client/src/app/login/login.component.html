@@ -1,0 +1,31 @@
+<section class="vh-100 login">
+    <div class="container py-5 h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col-12 col-md-8 col-lg-6 col-xl-5">
+                <div class="card shadow-2-strong" style="border-radius: 1rem; background: #0009;">
+                    <!-- <h1 class="text-center pt-5 white-text">STOCKS</h1> -->
+                    <div class="card-body p-5">
+                        <h3 class="mb-5 text-center white-text">Log in</h3>
+                        <form [formGroup]="userForm" ngNativeValidate (submit)="onLogin()">
+                            <div class="form-group mt-3 mb-3">
+                                <label for="usename" class="white-text">User Name</label>
+                                <input type="text" class="form-control inp-bg" id="username"
+                                    placeholder="Enter User Name" formControlName="username" required />
+                            </div>
+                            <div class="form-group mt-3 mb-3">
+                                <label for="password" class="white-text">Password</label>
+                                <input type="password" class="form-control inp-bg" id="password" placeholder="Password"
+                                    formControlName="password" required />
+                            </div>
+                            <button type="submit" class="btn btn-primary w-100 btn-lg mt-5">
+                                Login
+                            </button>
+                        </form>
+                        <div class="text-center mt-2 user-footer">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
