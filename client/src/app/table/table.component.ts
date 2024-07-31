@@ -17,16 +17,33 @@ export class TableComponent implements OnInit {
   startDate = new Date('2024-07-24');
   endDate = new Date();
   sortOrder = 0;
-  percentage = 0
-  position = 0
-  minPrice = 0
-  maxPrice = 0
-  open = 0
-  close = 0
   isLoser = false
   selectedDate = ""
   selectedId = ''
   isLoading = false
+  RecordsFields = [
+    { field: "percentage", value: 0 },
+    { field: "max", value: 0 },
+    { field: "min", value: 0 },
+    { field: "close", value: 0 },
+    { field: "open", value: 0 },
+    { field: "price", value: 0 },
+    { field: "volume", value: 0 },
+    { field: "tsInMillis", value: 0 },
+    { field: "lowPriceRange", value: 0 },
+    { field: "highPriceRange", value: 0 },
+    { field: "totalBuyQty", value: 0 },
+    { field: "totalSellQty", value: 0 },
+    { field: "dayChange", value: 0 },
+    { field: "openInterest", value: 0 },
+    { field: "lastTradeQty", value: 0 },
+    { field: "lastTradeTime", value: 0 },
+    { field: "prevOpenInterest", value: 0 },
+    { field: "oiDayChange", value: 0 },
+    { field: "oiDayChangePerc", value: 0 },
+    { field: "lowTradeRange", value: 0 },
+    { field: "highTradeRange", value: 0 },
+  ]
   constructor(private service: AppService, private toast: ToastService) { }
   ngOnInit() {
     this.dateList = this.getDateRange(this.startDate, this.endDate);
@@ -154,24 +171,58 @@ export class TableComponent implements OnInit {
 
   setUpdate(list, date) {
     const data = list.records.find(item => item.date == date)
-    this.percentage = data.percentage
-    this.position = data.position
-    this.minPrice = data.min
-    this.maxPrice = data.max
-    this.open = data.open
-    this.close = data.close
+    this.RecordsFields = [
+      { field: "percentage", value: data.percentage },
+      { field: "max", value: data.max },
+      { field: "min", value: data.min },
+      { field: "close", value: data.close },
+      { field: "open", value: data.open },
+      { field: "price", value: data.price },
+      { field: "volume", value: data.volume },
+      { field: "tsInMillis", value: data.tsInMillis },
+      { field: "lowPriceRange", value: data.lowPriceRange },
+      { field: "highPriceRange", value: data.highPriceRange },
+      { field: "totalBuyQty", value: data.totalBuyQty },
+      { field: "totalSellQty", value: data.totalSellQty },
+      { field: "dayChange", value: data.dayChange },
+      { field: "openInterest", value: data.openInterest },
+      { field: "lastTradeQty", value: data.lastTradeQty },
+      { field: "lastTradeTime", value: data.lastTradeTime },
+      { field: "prevOpenInterest", value: data.prevOpenInterest },
+      { field: "oiDayChange", value: data.oiDayChange },
+      { field: "oiDayChangePerc", value: data.oiDayChangePerc },
+      { field: "lowTradeRange", value: data.lowTradeRange },
+      { field: "highTradeRange", value: data.highTradeRange },
+    ]
     this.isLoser = list.urlFrom == "losers"
     this.selectedDate = date;
     this.selectedId = list._id
   }
 
   modalClose() {
-    this.percentage = 0
-    this.position = 0
-    this.minPrice = 0
-    this.maxPrice = 0
-    this.open = 0
-    this.close = 0
+    this.RecordsFields = [
+      { field: "percentage", value: 0 },
+      { field: "max", value: 0 },
+      { field: "min", value: 0 },
+      { field: "close", value: 0 },
+      { field: "open", value: 0 },
+      { field: "price", value: 0 },
+      { field: "volume", value: 0 },
+      { field: "tsInMillis", value: 0 },
+      { field: "lowPriceRange", value: 0 },
+      { field: "highPriceRange", value: 0 },
+      { field: "totalBuyQty", value: 0 },
+      { field: "totalSellQty", value: 0 },
+      { field: "dayChange", value: 0 },
+      { field: "openInterest", value: 0 },
+      { field: "lastTradeQty", value: 0 },
+      { field: "lastTradeTime", value: 0 },
+      { field: "prevOpenInterest", value: 0 },
+      { field: "oiDayChange", value: 0 },
+      { field: "oiDayChangePerc", value: 0 },
+      { field: "lowTradeRange", value: 0 },
+      { field: "highTradeRange", value: 0 },
+    ]
     this.isLoser = false
     this.selectedDate = ""
     this.selectedId = ""

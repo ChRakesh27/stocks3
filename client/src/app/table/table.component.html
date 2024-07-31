@@ -73,7 +73,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                <div class="row  justify-content-center mt-1">
+                <!-- <div class="row  justify-content-center mt-1">
                     <div class="col-4">
                         <label>percentage:</label>
                     </div>
@@ -126,7 +126,18 @@
                         <input type="number" [value]="close" class="form-control"
                             (change)="onChangeHandle($event,selectedDate,'close')" />
                     </div>
+                </div> -->
+                @for (item of RecordsFields; track $index) {
+                <div class="row  justify-content-center mt-1">
+                    <div class="col-4">
+                        <label>{{item.field}}:</label>
+                    </div>
+                    <div class="col-6">
+                        <input type="number" [value]="item.value" class="form-control"
+                            (change)="onChangeHandle($event,selectedDate,item.field)" />
+                    </div>
                 </div>
+                }
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal"
@@ -135,3 +146,27 @@
         </div>
     </div>
 </div>
+
+
+<!-- date
+max
+min
+close
+open
+price
+volume
+tsInMillis
+lowPriceRange
+highPriceRange
+totalBuyQty
+totalSellQty
+dayChange
+percentage
+openInterest
+lastTradeQty
+lastTradeTime
+prevOpenInterest
+oiDayChange
+oiDayChangePerc
+lowTradeRange
+highTradeRange -->
